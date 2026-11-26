@@ -1,0 +1,304 @@
+{
+  "values": [
+    {
+      "id": "spartan_compat:ironwood_saber",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:steeleaf_saber",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:knightmetal_saber",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:fiery_saber",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:neptunium_saber",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:ignitium_saber",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:cursium_saber",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:witherite_saber",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:ancient_metal_saber",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:black_steel_saber",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:necromium_saber",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:thaumium_saber",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:void_metal_saber",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:starsteel_saber",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:eclipse_saber",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:cloggrum_saber",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:froststeel_saber",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:utherium_saber",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:forgotten_saber",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:resonarium_saber",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:warden_saber",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:zanite_saber",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:gravitite_saber",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:allthemodium_saber",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:vibranium_saber",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:unobtainium_saber",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:osmium_saber",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:refined_obsidian_saber",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:refined_glowstone_saber",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:lapis_saber",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:soul_stained_steel_saber",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:hallowed_gold_saber",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:deorum_saber",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:draco_arcanus_saber",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:source_gem_saber",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:iesnium_saber",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:certus_quartz_saber",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:fluix_saber",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:brass_saber",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:zinc_saber",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:manasteel_saber",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:elementium_saber",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:terrasteel_saber",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:dark_steel_saber",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:psimetal_saber",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:amaramber_saber",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:deepsilver_saber",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:flowglaze_saber",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:glacite_saber",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:malarite_saber",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:starfire_saber",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:starlit_diamond_saber",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:thermal_springstone_saber",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:unrealium_saber",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:infused_iron_saber",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:sky_saber",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:depth_saber",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:silver_saber",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:totemic_gold_saber",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:poseidite_saber",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:shulkerate_saber",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:sculkium_saber",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:eternium_saber",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:accelerite_saber",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:dawnstone_saber",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:echo_saber",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:enderitium_saber",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:arcane_saber",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:mithril_saber",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:pyrium_saber",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:shimmersteel_saber",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:pyro_spellweave_saber",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:verdant_spellweave_saber",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:void_spellweave_saber",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:abyssal_spellweave_saber",
+      "required": false
+    }
+  ]
+}

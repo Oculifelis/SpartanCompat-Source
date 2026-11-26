@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "thaumaturge:ingot_thaumium",
+      "required": false
+    },
+    {
+      "id": "#c:ingots/thaumium",
+      "required": false
+    }
+  ]
+}

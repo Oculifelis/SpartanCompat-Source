@@ -1,0 +1,100 @@
+{
+  "values": [
+    {
+      "id": "spartan_compat:forgotten_dagger",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:forgotten_parrying_dagger",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:forgotten_longsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:forgotten_katana",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:forgotten_saber",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:forgotten_rapier",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:forgotten_greatsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:forgotten_battle_hammer",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:forgotten_warhammer",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:forgotten_spear",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:forgotten_halberd",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:forgotten_pike",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:forgotten_lance",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:forgotten_longbow",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:forgotten_heavy_crossbow",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:forgotten_throwing_knife",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:forgotten_tomahawk",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:forgotten_javelin",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:forgotten_boomerang",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:forgotten_battleaxe",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:forgotten_flanged_mace",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:forgotten_glaive",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:forgotten_quarterstaff",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:forgotten_scythe",
+      "required": false
+    }
+  ]
+}

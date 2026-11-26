@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "undergarden:froststeel_ingot",
+      "required": false
+    },
+    {
+      "id": "#c:ingots/froststeel",
+      "required": false
+    }
+  ]
+}

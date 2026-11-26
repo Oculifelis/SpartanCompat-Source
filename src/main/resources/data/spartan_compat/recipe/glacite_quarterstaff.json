@@ -1,0 +1,42 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "spartan_weaponry_unofficial:type_disabled",
+      "disabled": [
+        "quarterstaff"
+      ]
+    },
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "eternal_starlight"
+    },
+    {
+      "type": "neoforge:item_exists",
+      "item": "eternal_starlight:glacite_shard"
+    },
+    {
+      "type": "neoforge:item_exists",
+      "item": "spartan_compat:glacite_quarterstaff"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "group": "spartan_weaponry_unofficial:quarterstaff",
+  "key": {
+    "#": {
+      "tag": "c:gems/glacite"
+    },
+    "/": {
+      "item": "spartan_weaponry_unofficial:pole"
+    }
+  },
+  "pattern": [
+    "  #",
+    " / ",
+    "#  "
+  ],
+  "result": {
+    "count": 1,
+    "id": "spartan_compat:glacite_quarterstaff"
+  }
+}

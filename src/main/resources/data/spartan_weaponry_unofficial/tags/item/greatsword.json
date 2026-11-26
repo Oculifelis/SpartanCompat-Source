@@ -1,0 +1,304 @@
+{
+  "values": [
+    {
+      "id": "spartan_compat:ironwood_greatsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:steeleaf_greatsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:knightmetal_greatsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:fiery_greatsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:neptunium_greatsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:ignitium_greatsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:cursium_greatsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:witherite_greatsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:ancient_metal_greatsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:black_steel_greatsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:necromium_greatsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:thaumium_greatsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:void_metal_greatsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:starsteel_greatsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:eclipse_greatsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:cloggrum_greatsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:froststeel_greatsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:utherium_greatsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:forgotten_greatsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:resonarium_greatsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:warden_greatsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:zanite_greatsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:gravitite_greatsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:allthemodium_greatsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:vibranium_greatsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:unobtainium_greatsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:osmium_greatsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:refined_obsidian_greatsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:refined_glowstone_greatsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:lapis_greatsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:soul_stained_steel_greatsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:hallowed_gold_greatsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:deorum_greatsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:draco_arcanus_greatsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:source_gem_greatsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:iesnium_greatsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:certus_quartz_greatsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:fluix_greatsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:brass_greatsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:zinc_greatsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:manasteel_greatsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:elementium_greatsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:terrasteel_greatsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:dark_steel_greatsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:psimetal_greatsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:amaramber_greatsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:deepsilver_greatsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:flowglaze_greatsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:glacite_greatsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:malarite_greatsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:starfire_greatsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:starlit_diamond_greatsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:thermal_springstone_greatsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:unrealium_greatsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:infused_iron_greatsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:sky_greatsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:depth_greatsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:silver_greatsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:totemic_gold_greatsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:poseidite_greatsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:shulkerate_greatsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:sculkium_greatsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:eternium_greatsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:accelerite_greatsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:dawnstone_greatsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:echo_greatsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:enderitium_greatsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:arcane_greatsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:mithril_greatsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:pyrium_greatsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:shimmersteel_greatsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:pyro_spellweave_greatsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:verdant_spellweave_greatsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:void_spellweave_greatsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:abyssal_spellweave_greatsword",
+      "required": false
+    }
+  ]
+}

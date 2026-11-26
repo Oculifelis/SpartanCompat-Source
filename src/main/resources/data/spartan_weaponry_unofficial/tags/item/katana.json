@@ -1,0 +1,304 @@
+{
+  "values": [
+    {
+      "id": "spartan_compat:ironwood_katana",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:steeleaf_katana",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:knightmetal_katana",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:fiery_katana",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:neptunium_katana",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:ignitium_katana",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:cursium_katana",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:witherite_katana",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:ancient_metal_katana",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:black_steel_katana",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:necromium_katana",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:thaumium_katana",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:void_metal_katana",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:starsteel_katana",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:eclipse_katana",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:cloggrum_katana",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:froststeel_katana",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:utherium_katana",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:forgotten_katana",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:resonarium_katana",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:warden_katana",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:zanite_katana",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:gravitite_katana",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:allthemodium_katana",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:vibranium_katana",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:unobtainium_katana",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:osmium_katana",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:refined_obsidian_katana",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:refined_glowstone_katana",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:lapis_katana",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:soul_stained_steel_katana",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:hallowed_gold_katana",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:deorum_katana",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:draco_arcanus_katana",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:source_gem_katana",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:iesnium_katana",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:certus_quartz_katana",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:fluix_katana",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:brass_katana",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:zinc_katana",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:manasteel_katana",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:elementium_katana",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:terrasteel_katana",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:dark_steel_katana",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:psimetal_katana",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:amaramber_katana",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:deepsilver_katana",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:flowglaze_katana",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:glacite_katana",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:malarite_katana",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:starfire_katana",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:starlit_diamond_katana",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:thermal_springstone_katana",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:unrealium_katana",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:infused_iron_katana",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:sky_katana",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:depth_katana",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:silver_katana",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:totemic_gold_katana",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:poseidite_katana",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:shulkerate_katana",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:sculkium_katana",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:eternium_katana",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:accelerite_katana",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:dawnstone_katana",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:echo_katana",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:enderitium_katana",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:arcane_katana",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:mithril_katana",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:pyrium_katana",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:shimmersteel_katana",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:pyro_spellweave_katana",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:verdant_spellweave_katana",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:void_spellweave_katana",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:abyssal_spellweave_katana",
+      "required": false
+    }
+  ]
+}

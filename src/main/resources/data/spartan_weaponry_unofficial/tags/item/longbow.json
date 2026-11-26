@@ -1,0 +1,304 @@
+{
+  "values": [
+    {
+      "id": "spartan_compat:ironwood_longbow",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:steeleaf_longbow",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:knightmetal_longbow",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:fiery_longbow",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:neptunium_longbow",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:ignitium_longbow",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:cursium_longbow",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:witherite_longbow",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:ancient_metal_longbow",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:black_steel_longbow",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:necromium_longbow",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:thaumium_longbow",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:void_metal_longbow",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:starsteel_longbow",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:eclipse_longbow",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:cloggrum_longbow",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:froststeel_longbow",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:utherium_longbow",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:forgotten_longbow",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:resonarium_longbow",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:warden_longbow",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:zanite_longbow",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:gravitite_longbow",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:allthemodium_longbow",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:vibranium_longbow",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:unobtainium_longbow",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:osmium_longbow",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:refined_obsidian_longbow",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:refined_glowstone_longbow",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:lapis_longbow",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:soul_stained_steel_longbow",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:hallowed_gold_longbow",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:deorum_longbow",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:draco_arcanus_longbow",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:source_gem_longbow",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:iesnium_longbow",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:certus_quartz_longbow",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:fluix_longbow",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:brass_longbow",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:zinc_longbow",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:manasteel_longbow",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:elementium_longbow",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:terrasteel_longbow",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:dark_steel_longbow",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:psimetal_longbow",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:amaramber_longbow",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:deepsilver_longbow",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:flowglaze_longbow",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:glacite_longbow",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:malarite_longbow",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:starfire_longbow",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:starlit_diamond_longbow",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:thermal_springstone_longbow",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:unrealium_longbow",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:infused_iron_longbow",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:sky_longbow",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:depth_longbow",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:silver_longbow",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:totemic_gold_longbow",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:poseidite_longbow",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:shulkerate_longbow",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:sculkium_longbow",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:eternium_longbow",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:accelerite_longbow",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:dawnstone_longbow",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:echo_longbow",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:enderitium_longbow",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:arcane_longbow",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:mithril_longbow",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:pyrium_longbow",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:shimmersteel_longbow",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:pyro_spellweave_longbow",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:verdant_spellweave_longbow",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:void_spellweave_longbow",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:abyssal_spellweave_longbow",
+      "required": false
+    }
+  ]
+}

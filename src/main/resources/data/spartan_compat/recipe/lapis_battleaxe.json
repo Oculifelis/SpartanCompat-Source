@@ -1,0 +1,45 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "spartan_weaponry_unofficial:type_disabled",
+      "disabled": [
+        "battleaxe"
+      ]
+    },
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "mekanismtools"
+    },
+    {
+      "type": "neoforge:item_exists",
+      "item": "minecraft:lapis_lazuli"
+    },
+    {
+      "type": "neoforge:item_exists",
+      "item": "spartan_compat:lapis_battleaxe"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "group": "spartan_weaponry_unofficial:battleaxe",
+  "key": {
+    "#": {
+      "tag": "c:gems/lapis"
+    },
+    "/": {
+      "tag": "c:rods/wooden"
+    },
+    "|": {
+      "item": "spartan_weaponry_unofficial:handle"
+    }
+  },
+  "pattern": [
+    "###",
+    "#/#",
+    " | "
+  ],
+  "result": {
+    "count": 1,
+    "id": "spartan_compat:lapis_battleaxe"
+  }
+}

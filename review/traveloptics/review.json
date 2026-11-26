@@ -1,0 +1,92 @@
+{
+  "title": "Spartan Compat materials",
+  "project": "Spartan Compat",
+  "owner": "Main Coordinator",
+  "whats_new": "Six material recolors for four new 1.21.1 modules: Create, Ars Nouveau, Occultism and AE2. Staged only; modules default to disabled and opt-in uses existing Spartan iron artwork until review.",
+  "items": [
+    {
+      "id": "pyro_spellweave",
+      "title": "Pyro Spellweave",
+      "detail": "All weapon sprites, including bow states. Original Spartan shading, outlines, grip and binding remain. Left: Spartan iron at 1x. Middle: recolor at 1x. Right: recolor at 4x. Pending art stays outside the jar.",
+      "ask": "Is this material's recolor ready?",
+      "images": [
+        {
+          "src": "sheets/pyro_spellweave.png",
+          "caption": "Pyro Spellweave beside vanilla and Spartan iron"
+        }
+      ]
+    },
+    {
+      "id": "verdant_spellweave",
+      "title": "Verdant Spellweave",
+      "detail": "All weapon sprites, including bow states. Original Spartan shading, outlines, grip and binding remain. Left: Spartan iron at 1x. Middle: recolor at 1x. Right: recolor at 4x. Pending art stays outside the jar.",
+      "ask": "Is this material's recolor ready?",
+      "images": [
+        {
+          "src": "sheets/verdant_spellweave.png",
+          "caption": "Verdant Spellweave beside vanilla and Spartan iron"
+        }
+      ]
+    },
+    {
+      "id": "void_spellweave",
+      "title": "Void Spellweave",
+      "detail": "All weapon sprites, including bow states. Original Spartan shading, outlines, grip and binding remain. Left: Spartan iron at 1x. Middle: recolor at 1x. Right: recolor at 4x. Pending art stays outside the jar.",
+      "ask": "Is this material's recolor ready?",
+      "images": [
+        {
+          "src": "sheets/void_spellweave.png",
+          "caption": "Void Spellweave beside vanilla and Spartan iron"
+        }
+      ]
+    },
+    {
+      "id": "abyssal_spellweave",
+      "title": "Abyssal Spellweave",
+      "detail": "All weapon sprites, including bow states. Original Spartan shading, outlines, grip and binding remain. Left: Spartan iron at 1x. Middle: recolor at 1x. Right: recolor at 4x. Pending art stays outside the jar.",
+      "ask": "Is this material's recolor ready?",
+      "images": [
+        {
+          "src": "sheets/abyssal_spellweave.png",
+          "caption": "Abyssal Spellweave beside vanilla and Spartan iron"
+        }
+      ]
+    },
+    {
+      "id": "tectonic",
+      "title": "Tectonic",
+      "detail": "All weapon sprites, including bow states. Original Spartan shading, outlines, grip and binding remain. Left: Spartan iron at 1x. Middle: recolor at 1x. Right: recolor at 4x. Pending art stays outside the jar.",
+      "ask": "Is this material's recolor ready?",
+      "images": [
+        {
+          "src": "sheets/tectonic.png",
+          "caption": "Tectonic beside vanilla and Spartan iron"
+        }
+      ]
+    },
+    {
+      "id": "hullbreaker_steel",
+      "title": "Hullbreaker Steel",
+      "detail": "All weapon sprites, including bow states. Original Spartan shading, outlines, grip and binding remain. Left: Spartan iron at 1x. Middle: recolor at 1x. Right: recolor at 4x. Pending art stays outside the jar.",
+      "ask": "Is this material's recolor ready?",
+      "images": [
+        {
+          "src": "sheets/hullbreaker_steel.png",
+          "caption": "Hullbreaker Steel beside vanilla and Spartan iron"
+        }
+      ]
+    },
+    {
+      "id": "lightning_spellweave",
+      "title": "Lightning Spellweave",
+      "detail": "All weapon sprites, including bow states. Original Spartan shading, outlines, grip and binding remain. Left: Spartan iron at 1x. Middle: recolor at 1x. Right: recolor at 4x. Pending art stays outside the jar.",
+      "ask": "Is this material's recolor ready?",
+      "images": [
+        {
+          "src": "sheets/lightning_spellweave.png",
+          "caption": "Lightning Spellweave beside vanilla and Spartan iron"
+        }
+      ]
+    }
+  ]
+}

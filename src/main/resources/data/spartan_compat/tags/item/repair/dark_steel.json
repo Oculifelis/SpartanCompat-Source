@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "enderio:dark_steel_ingot",
+      "required": false
+    },
+    {
+      "id": "#c:ingots/dark_steel",
+      "required": false
+    }
+  ]
+}

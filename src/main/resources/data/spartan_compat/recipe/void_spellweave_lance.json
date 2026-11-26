@@ -1,0 +1,36 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "spartan_weaponry_unofficial:type_disabled",
+      "disabled": [
+        "lance"
+      ]
+    },
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "traveloptics"
+    },
+    {
+      "type": "neoforge:item_exists",
+      "item": "traveloptics:void_spellweave_ingot"
+    },
+    {
+      "type": "neoforge:item_exists",
+      "item": "spartan_compat:void_spellweave_lance"
+    }
+  ],
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "minecraft:netherite_upgrade_smithing_template"
+  },
+  "base": {
+    "item": "spartan_weaponry_unofficial:netherite_lance"
+  },
+  "addition": {
+    "item": "traveloptics:void_spellweave_ingot"
+  },
+  "result": {
+    "count": 1,
+    "id": "spartan_compat:void_spellweave_lance"
+  }
+}

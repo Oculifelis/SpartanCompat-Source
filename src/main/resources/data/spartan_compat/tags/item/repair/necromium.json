@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "caverns_and_chasms:necromium_ingot",
+      "required": false
+    },
+    {
+      "id": "#c:ingots/necromium",
+      "required": false
+    }
+  ]
+}

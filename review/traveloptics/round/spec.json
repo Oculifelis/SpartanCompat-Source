@@ -1,0 +1,118 @@
+{
+ "items": [
+  {
+   "id": "pyro_spellweave",
+   "title": "Pyro Spellweave (both 1.21.1 and 1.20.1)",
+   "detail": "Spartan Compat module for T.O Magic 'n Extras (traveloptics, an Iron's Spells addon). Each metal gets the full Spartan weapon set, crafted from the T.O ingot with a netherite smithing upgrade. Boss tier like T.O's own weapons: durability 2250, speed 9.0, enchantability 20, rare, explosion proof. Art is Spartan iron recoloured with colours read from T.O's ingot and weapon (T.O art is All Rights Reserved, so no pixels copied). Good ships it; Needs changes gets a repaint; Bad drops this metal. 5.0 damage over netherite base, fireproof, sets targets on fire (ignite). Ingot drops from the Netherite Monstrosity.",
+   "ask": "Ship this metal with this art?",
+   "images": [
+    {
+     "src": "pyro_spellweave_closeup.png",
+     "caption": "Longsword, greatsword, halberd, battle hammer, scythe, longbow at 8x",
+     "pixel": true
+    },
+    {
+     "src": "pyro_spellweave.png",
+     "caption": "Every weapon, 1x and 4x, with the colour swatch read from T.O"
+    }
+   ]
+  },
+  {
+   "id": "verdant_spellweave",
+   "title": "Verdant Spellweave (both 1.21.1 and 1.20.1)",
+   "detail": "Spartan Compat module for T.O Magic 'n Extras (traveloptics, an Iron's Spells addon). Each metal gets the full Spartan weapon set, crafted from the T.O ingot with a netherite smithing upgrade. Boss tier like T.O's own weapons: durability 2250, speed 9.0, enchantability 20, rare, explosion proof. Art is Spartan iron recoloured with colours read from T.O's ingot and weapon (T.O art is All Rights Reserved, so no pixels copied). Good ships it; Needs changes gets a repaint; Bad drops this metal. 4.0 damage, slows targets (na_slowing). Ingot drops from the Amethyst Crab. Green blade with pink thorn accents read from Thorns of Oblivion.",
+   "ask": "Ship this metal with this art?",
+   "images": [
+    {
+     "src": "verdant_spellweave_closeup.png",
+     "caption": "Longsword, greatsword, halberd, battle hammer, scythe, longbow at 8x",
+     "pixel": true
+    },
+    {
+     "src": "verdant_spellweave.png",
+     "caption": "Every weapon, 1x and 4x, with the colour swatch read from T.O"
+    }
+   ]
+  },
+  {
+   "id": "void_spellweave",
+   "title": "Void Spellweave (both 1.21.1 and 1.20.1)",
+   "detail": "Spartan Compat module for T.O Magic 'n Extras (traveloptics, an Iron's Spells addon). Each metal gets the full Spartan weapon set, crafted from the T.O ingot with a netherite smithing upgrade. Boss tier like T.O's own weapons: durability 2250, speed 9.0, enchantability 20, rare, explosion proof. Art is Spartan iron recoloured with colours read from T.O's ingot and weapon (T.O art is All Rights Reserved, so no pixels copied). Good ships it; Needs changes gets a repaint; Bad drops this metal. 5.5 damage, darkness on hit (darkening). Ingot drops from the Ender Guardian. Lavender ramp, picked to stay apart from Abyssal.",
+   "ask": "Ship this metal with this art?",
+   "images": [
+    {
+     "src": "void_spellweave_closeup.png",
+     "caption": "Longsword, greatsword, halberd, battle hammer, scythe, longbow at 8x",
+     "pixel": true
+    },
+    {
+     "src": "void_spellweave.png",
+     "caption": "Every weapon, 1x and 4x, with the colour swatch read from T.O"
+    }
+   ]
+  },
+  {
+   "id": "abyssal_spellweave",
+   "title": "Abyssal Spellweave (1.20.1 only)",
+   "detail": "Spartan Compat module for T.O Magic 'n Extras (traveloptics, an Iron's Spells addon). Each metal gets the full Spartan weapon set, crafted from the T.O ingot with a netherite smithing upgrade. Boss tier like T.O's own weapons: durability 2250, speed 9.0, enchantability 20, rare, explosion proof. Art is Spartan iron recoloured with colours read from T.O's ingot and weapon (T.O art is All Rights Reserved, so no pixels copied). Good ships it; Needs changes gets a repaint; Bad drops this metal. 6.0 damage, extra damage in water/rain (neptunes_might). Ingot drops from the Leviathan on 1.20.1; on 1.21.1 T.O has it creative-only, so it is left out there by default.",
+   "ask": "Ship this metal with this art?",
+   "images": [
+    {
+     "src": "abyssal_spellweave_closeup.png",
+     "caption": "Longsword, greatsword, halberd, battle hammer, scythe, longbow at 8x",
+     "pixel": true
+    },
+    {
+     "src": "abyssal_spellweave.png",
+     "caption": "Every weapon, 1x and 4x, with the colour swatch read from T.O"
+    }
+   ]
+  },
+  {
+   "id": "tectonic",
+   "title": "Tectonic (1.20.1 only)",
+   "detail": "Spartan Compat module for T.O Magic 'n Extras (traveloptics, an Iron's Spells addon). Each metal gets the full Spartan weapon set, crafted from the T.O ingot with a netherite smithing upgrade. Boss tier like T.O's own weapons: durability 2250, speed 9.0, enchantability 20, rare, explosion proof. Art is Spartan iron recoloured with colours read from T.O's ingot and weapon (T.O art is All Rights Reserved, so no pixels copied). Good ships it; Needs changes gets a repaint; Bad drops this metal. 5.0 damage, fireproof, gravity_strike. Ingot is crafted (amber curiosity, arcane ingots, tectonic shard). T.O 1.21.1 does not register this ingot.",
+   "ask": "Ship this metal with this art?",
+   "images": [
+    {
+     "src": "tectonic_closeup.png",
+     "caption": "Longsword, greatsword, halberd, battle hammer, scythe, longbow at 8x",
+     "pixel": true
+    },
+    {
+     "src": "tectonic.png",
+     "caption": "Every weapon, 1x and 4x, with the colour swatch read from T.O"
+    }
+   ]
+  },
+  {
+   "id": "hullbreaker_steel",
+   "title": "Hullbreaker Steel (1.20.1 only)",
+   "detail": "Spartan Compat module for T.O Magic 'n Extras (traveloptics, an Iron's Spells addon). Each metal gets the full Spartan weapon set, crafted from the T.O ingot with a netherite smithing upgrade. Boss tier like T.O's own weapons: durability 2250, speed 9.0, enchantability 20, rare, explosion proof. Art is Spartan iron recoloured with colours read from T.O's ingot and weapon (T.O art is All Rights Reserved, so no pixels copied). Good ships it; Needs changes gets a repaint; Bad drops this metal. 5.0 damage, bonus against armour plus neptunes_strike. Crafted from hullbreaker scales and an arcane ingot. Not registered on T.O 1.21.1.",
+   "ask": "Ship this metal with this art?",
+   "images": [
+    {
+     "src": "hullbreaker_steel_closeup.png",
+     "caption": "Longsword, greatsword, halberd, battle hammer, scythe, longbow at 8x",
+     "pixel": true
+    },
+    {
+     "src": "hullbreaker_steel.png",
+     "caption": "Every weapon, 1x and 4x, with the colour swatch read from T.O"
+    }
+   ]
+  },
+  {
+   "id": "metal_list",
+   "title": "Which T.O metals",
+   "detail": "Every metal T.O has. Default pick: 1.21.1 gets Pyro, Verdant and Void (the only ones that drop there; Tectonic and Hullbreaker are not even registered). 1.20.1 gets all six shown here. Options: Lightning Spellweave (drops from Tremorzilla on 1.20.1, has no source on 1.21.1, no art made yet); Abyssal on 1.21.1 too (creative only there). Skipped: Celestial, Crimson, Cryo, Eldritch, Evokated spellweave, which no version can obtain.",
+   "ask": "Which metal list?",
+   "choices": [
+    "Keep the default pick",
+    "Add Lightning (1.20.1)",
+    "Add Abyssal on 1.21.1",
+    "Add both"
+   ]
+  }
+ ]
+}

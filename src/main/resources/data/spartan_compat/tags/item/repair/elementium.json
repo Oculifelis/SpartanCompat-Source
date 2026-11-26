@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "botania:elementium_ingot",
+      "required": false
+    },
+    {
+      "id": "#c:ingots/elementium",
+      "required": false
+    }
+  ]
+}

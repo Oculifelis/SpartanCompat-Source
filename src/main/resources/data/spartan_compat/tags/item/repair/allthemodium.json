@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "allthemodium:allthemodium_ingot",
+      "required": false
+    },
+    {
+      "id": "#c:ingots/allthemodium",
+      "required": false
+    }
+  ]
+}

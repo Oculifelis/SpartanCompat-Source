@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "botania:manasteel_ingot",
+      "required": false
+    },
+    {
+      "id": "#c:ingots/manasteel",
+      "required": false
+    }
+  ]
+}

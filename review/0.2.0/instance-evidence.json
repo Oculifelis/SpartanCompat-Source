@@ -1,0 +1,51 @@
+{
+  "mc": "1.21.1",
+  "instances": {
+    "create": [
+      "instance:1111",
+      "instance:All the Magic - Arcana",
+      "instance:Create- Stranded at Sea",
+      "instance:Bees Showcase",
+      "instance:All the Mons - ATMons",
+      "instance:Chosen's Create- Integrated",
+      "instance:Cosmic Frontiers 1.21.1",
+      "instance:FriendSlop Create Magic",
+      "instance:Infinite Horizons 2 - Superflat Survival",
+      "instance:Just Create SMP 2",
+      "instance:The Frozen Sea (dev)",
+      "instance:FTB StoneBlock 4"
+    ],
+    "ars_nouveau": [
+      "instance:1111",
+      "instance:All the Magic - Arcana",
+      "instance:All the Mons - ATMons",
+      "instance:Canvas - Modpack Base Template",
+      "instance:Chosen's Create- Integrated",
+      "instance:Cosmic Frontiers 1.21.1",
+      "instance:FTB StoneBlock 4",
+      "instance:FriendSlop Create Magic",
+      "instance:Infinite Horizons 2 - Superflat Survival"
+    ],
+    "occultism": [
+      "instance:1111",
+      "instance:All the Magic - Arcana",
+      "instance:All the Mons - ATMons",
+      "instance:Canvas - Modpack Base Template",
+      "instance:Cosmic Frontiers 1.21.1",
+      "instance:IWS 1.21-v4.22",
+      "instance:Create- Stranded at Sea",
+      "instance:FTB StoneBlock 4",
+      "instance:FriendSlop Create Magic"
+    ],
+    "ae2": [
+      "instance:1111",
+      "instance:All the Magic - Arcana",
+      "instance:All the Mons - ATMons",
+      "instance:Canvas - Modpack Base Template",
+      "instance:Cosmic Frontiers 1.21.1",
+      "instance:FTB StoneBlock 4",
+      "instance:Infinite Horizons 2 - Superflat Survival",
+      "instance:SOLARTEST"
+    ]
+  }
+}

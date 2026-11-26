@@ -1,0 +1,304 @@
+{
+  "values": [
+    {
+      "id": "spartan_compat:ironwood_warhammer",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:steeleaf_warhammer",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:knightmetal_warhammer",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:fiery_warhammer",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:neptunium_warhammer",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:ignitium_warhammer",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:cursium_warhammer",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:witherite_warhammer",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:ancient_metal_warhammer",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:black_steel_warhammer",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:necromium_warhammer",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:thaumium_warhammer",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:void_metal_warhammer",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:starsteel_warhammer",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:eclipse_warhammer",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:cloggrum_warhammer",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:froststeel_warhammer",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:utherium_warhammer",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:forgotten_warhammer",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:resonarium_warhammer",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:warden_warhammer",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:zanite_warhammer",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:gravitite_warhammer",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:allthemodium_warhammer",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:vibranium_warhammer",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:unobtainium_warhammer",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:osmium_warhammer",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:refined_obsidian_warhammer",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:refined_glowstone_warhammer",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:lapis_warhammer",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:soul_stained_steel_warhammer",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:hallowed_gold_warhammer",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:deorum_warhammer",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:draco_arcanus_warhammer",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:source_gem_warhammer",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:iesnium_warhammer",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:certus_quartz_warhammer",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:fluix_warhammer",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:brass_warhammer",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:zinc_warhammer",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:manasteel_warhammer",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:elementium_warhammer",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:terrasteel_warhammer",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:dark_steel_warhammer",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:psimetal_warhammer",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:amaramber_warhammer",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:deepsilver_warhammer",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:flowglaze_warhammer",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:glacite_warhammer",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:malarite_warhammer",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:starfire_warhammer",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:starlit_diamond_warhammer",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:thermal_springstone_warhammer",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:unrealium_warhammer",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:infused_iron_warhammer",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:sky_warhammer",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:depth_warhammer",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:silver_warhammer",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:totemic_gold_warhammer",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:poseidite_warhammer",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:shulkerate_warhammer",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:sculkium_warhammer",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:eternium_warhammer",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:accelerite_warhammer",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:dawnstone_warhammer",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:echo_warhammer",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:enderitium_warhammer",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:arcane_warhammer",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:mithril_warhammer",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:pyrium_warhammer",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:shimmersteel_warhammer",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:pyro_spellweave_warhammer",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:verdant_spellweave_warhammer",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:void_spellweave_warhammer",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:abyssal_spellweave_warhammer",
+      "required": false
+    }
+  ]
+}

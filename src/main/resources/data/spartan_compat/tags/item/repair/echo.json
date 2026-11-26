@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "create_deep_dark:echo_ingot",
+      "required": false
+    },
+    {
+      "id": "#c:ingots/echo",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "values": [
+    {
+      "id": "spartan_compat:infused_iron_dagger",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:infused_iron_parrying_dagger",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:infused_iron_longsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:infused_iron_katana",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:infused_iron_saber",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:infused_iron_rapier",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:infused_iron_greatsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:infused_iron_battle_hammer",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:infused_iron_warhammer",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:infused_iron_spear",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:infused_iron_halberd",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:infused_iron_pike",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:infused_iron_lance",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:infused_iron_longbow",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:infused_iron_heavy_crossbow",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:infused_iron_throwing_knife",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:infused_iron_tomahawk",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:infused_iron_javelin",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:infused_iron_boomerang",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:infused_iron_battleaxe",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:infused_iron_flanged_mace",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:infused_iron_glaive",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:infused_iron_quarterstaff",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:infused_iron_scythe",
+      "required": false
+    }
+  ]
+}

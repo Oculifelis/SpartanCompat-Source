@@ -1,0 +1,41 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "spartan_weaponry_unofficial:type_disabled",
+      "disabled": [
+        "spear"
+      ]
+    },
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "botania"
+    },
+    {
+      "type": "neoforge:item_exists",
+      "item": "botania:elementium_ingot"
+    },
+    {
+      "type": "neoforge:item_exists",
+      "item": "spartan_compat:elementium_spear"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "group": "spartan_weaponry_unofficial:spear",
+  "key": {
+    "#": {
+      "tag": "c:ingots/elementium"
+    },
+    "/": {
+      "tag": "spartan_weaponry_unofficial:poles"
+    }
+  },
+  "pattern": [
+    "#",
+    "/"
+  ],
+  "result": {
+    "count": 1,
+    "id": "spartan_compat:elementium_spear"
+  }
+}

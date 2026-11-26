@@ -1,0 +1,100 @@
+{
+  "values": [
+    {
+      "id": "spartan_compat:mithril_dagger",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:mithril_parrying_dagger",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:mithril_longsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:mithril_katana",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:mithril_saber",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:mithril_rapier",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:mithril_greatsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:mithril_battle_hammer",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:mithril_warhammer",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:mithril_spear",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:mithril_halberd",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:mithril_pike",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:mithril_lance",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:mithril_longbow",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:mithril_heavy_crossbow",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:mithril_throwing_knife",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:mithril_tomahawk",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:mithril_javelin",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:mithril_boomerang",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:mithril_battleaxe",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:mithril_flanged_mace",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:mithril_glaive",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:mithril_quarterstaff",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:mithril_scythe",
+      "required": false
+    }
+  ]
+}

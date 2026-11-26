@@ -1,0 +1,42 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "spartan_weaponry_unofficial:type_disabled",
+      "disabled": [
+        "longsword"
+      ]
+    },
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "nexus"
+    },
+    {
+      "type": "neoforge:item_exists",
+      "item": "nexus:charged_accelerite_ingot"
+    },
+    {
+      "type": "neoforge:item_exists",
+      "item": "spartan_compat:accelerite_longsword"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "group": "spartan_weaponry_unofficial:longsword",
+  "key": {
+    "#": {
+      "item": "nexus:charged_accelerite_ingot"
+    },
+    "|": {
+      "item": "spartan_weaponry_unofficial:handle"
+    }
+  },
+  "pattern": [
+    " # ",
+    " # ",
+    "#|#"
+  ],
+  "result": {
+    "count": 1,
+    "id": "spartan_compat:accelerite_longsword"
+  }
+}

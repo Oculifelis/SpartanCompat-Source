@@ -1,0 +1,100 @@
+{
+  "values": [
+    {
+      "id": "spartan_compat:allthemodium_dagger",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:allthemodium_parrying_dagger",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:allthemodium_longsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:allthemodium_katana",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:allthemodium_saber",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:allthemodium_rapier",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:allthemodium_greatsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:allthemodium_battle_hammer",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:allthemodium_warhammer",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:allthemodium_spear",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:allthemodium_halberd",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:allthemodium_pike",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:allthemodium_lance",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:allthemodium_longbow",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:allthemodium_heavy_crossbow",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:allthemodium_throwing_knife",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:allthemodium_tomahawk",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:allthemodium_javelin",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:allthemodium_boomerang",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:allthemodium_battleaxe",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:allthemodium_flanged_mace",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:allthemodium_glaive",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:allthemodium_quarterstaff",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:allthemodium_scythe",
+      "required": false
+    }
+  ]
+}

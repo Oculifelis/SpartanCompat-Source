@@ -1,0 +1,39 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "spartan_weaponry_unofficial:type_disabled",
+      "disabled": [
+        "throwing_knife"
+      ]
+    },
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "twilightforest"
+    },
+    {
+      "type": "neoforge:item_exists",
+      "item": "twilightforest:fiery_ingot"
+    },
+    {
+      "type": "neoforge:item_exists",
+      "item": "spartan_compat:fiery_throwing_knife"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    {
+      "item": "spartan_weaponry_unofficial:throwing_knife_iron"
+    },
+    {
+      "tag": "twilightforest:fiery_vial"
+    },
+    {
+      "item": "minecraft:blaze_rod"
+    }
+  ],
+  "result": {
+    "id": "spartan_compat:fiery_throwing_knife",
+    "count": 1
+  }
+}

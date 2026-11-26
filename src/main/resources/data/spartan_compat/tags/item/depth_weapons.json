@@ -1,0 +1,100 @@
+{
+  "values": [
+    {
+      "id": "spartan_compat:depth_dagger",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:depth_parrying_dagger",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:depth_longsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:depth_katana",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:depth_saber",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:depth_rapier",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:depth_greatsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:depth_battle_hammer",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:depth_warhammer",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:depth_spear",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:depth_halberd",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:depth_pike",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:depth_lance",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:depth_longbow",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:depth_heavy_crossbow",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:depth_throwing_knife",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:depth_tomahawk",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:depth_javelin",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:depth_boomerang",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:depth_battleaxe",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:depth_flanged_mace",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:depth_glaive",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:depth_quarterstaff",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:depth_scythe",
+      "required": false
+    }
+  ]
+}

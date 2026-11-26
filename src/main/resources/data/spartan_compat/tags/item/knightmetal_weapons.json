@@ -1,0 +1,100 @@
+{
+  "values": [
+    {
+      "id": "spartan_compat:knightmetal_dagger",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:knightmetal_parrying_dagger",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:knightmetal_longsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:knightmetal_katana",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:knightmetal_saber",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:knightmetal_rapier",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:knightmetal_greatsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:knightmetal_battle_hammer",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:knightmetal_warhammer",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:knightmetal_spear",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:knightmetal_halberd",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:knightmetal_pike",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:knightmetal_lance",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:knightmetal_longbow",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:knightmetal_heavy_crossbow",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:knightmetal_throwing_knife",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:knightmetal_tomahawk",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:knightmetal_javelin",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:knightmetal_boomerang",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:knightmetal_battleaxe",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:knightmetal_flanged_mace",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:knightmetal_glaive",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:knightmetal_quarterstaff",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:knightmetal_scythe",
+      "required": false
+    }
+  ]
+}

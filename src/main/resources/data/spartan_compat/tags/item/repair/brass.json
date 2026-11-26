@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "create:brass_ingot",
+      "required": false
+    },
+    {
+      "id": "#c:ingots/brass",
+      "required": false
+    }
+  ]
+}

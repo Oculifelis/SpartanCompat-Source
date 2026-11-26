@@ -1,0 +1,100 @@
+{
+  "values": [
+    {
+      "id": "spartan_compat:steeleaf_dagger",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:steeleaf_parrying_dagger",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:steeleaf_longsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:steeleaf_katana",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:steeleaf_saber",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:steeleaf_rapier",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:steeleaf_greatsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:steeleaf_battle_hammer",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:steeleaf_warhammer",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:steeleaf_spear",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:steeleaf_halberd",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:steeleaf_pike",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:steeleaf_lance",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:steeleaf_longbow",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:steeleaf_heavy_crossbow",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:steeleaf_throwing_knife",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:steeleaf_tomahawk",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:steeleaf_javelin",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:steeleaf_boomerang",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:steeleaf_battleaxe",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:steeleaf_flanged_mace",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:steeleaf_glaive",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:steeleaf_quarterstaff",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:steeleaf_scythe",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,1485 @@
+{
+ "_comment": "Built-in material table. config/spartan_compat/materials.json overrides the numbers and switches.",
+ "modules": [
+  "twilightforest",
+  "aquaculture",
+  "cataclysm",
+  "caverns_and_chasms",
+  "thaumaturge",
+  "quiverfall",
+  "undergarden",
+  "deeperdarker",
+  "aether",
+  "allthemodium",
+  "mekanismtools",
+  "malum",
+  "forbidden_arcanus",
+  "ars_nouveau",
+  "occultism",
+  "ae2",
+  "create",
+  "botania",
+  "enderio",
+  "psi",
+  "eternal_starlight",
+  "naturesaura",
+  "eidolon_repraised",
+  "l2complements",
+  "nexus",
+  "embers",
+  "create_deep_dark",
+  "legendary_monsters",
+  "irons_spellbooks",
+  "auroral",
+  "traveloptics"
+ ],
+ "materials": [
+  {
+   "name": "ironwood",
+   "display": "Ironwood",
+   "module": "twilightforest",
+   "ingot": "twilightforest:ironwood_ingot",
+   "ingot_tag": "c:ingots/ironwood",
+   "durability": 512,
+   "speed": 6.5,
+   "damage": 2.0,
+   "enchantability": 25,
+   "incorrect_for": "twilightforest:incorrect_for_ironwood_tool",
+   "colours": [
+    "6b5a3c",
+    "a99a6b"
+   ],
+   "traits": [
+    "ironwood_enchantments"
+   ]
+  },
+  {
+   "name": "steeleaf",
+   "display": "Steeleaf",
+   "module": "twilightforest",
+   "ingot": "twilightforest:steeleaf_ingot",
+   "ingot_tag": "c:ingots/steeleaf",
+   "durability": 131,
+   "speed": 8.0,
+   "damage": 3.0,
+   "enchantability": 9,
+   "incorrect_for": "twilightforest:incorrect_for_steeleaf_tool",
+   "colours": [
+    "2e5d1f",
+    "6fae3a"
+   ],
+   "traits": [
+    "steeleaf_enchantments"
+   ]
+  },
+  {
+   "name": "knightmetal",
+   "display": "Knightmetal",
+   "module": "twilightforest",
+   "ingot": "twilightforest:knightmetal_ingot",
+   "ingot_tag": "c:ingots/knightmetal",
+   "durability": 512,
+   "speed": 8.0,
+   "damage": 3.0,
+   "enchantability": 8,
+   "incorrect_for": "twilightforest:incorrect_for_knightmetal_tool",
+   "colours": [
+    "7c8a6a",
+    "d6e0c2"
+   ],
+   "traits": [
+    "spartan_compat:armored_damage_bonus"
+   ]
+  },
+  {
+   "name": "fiery",
+   "display": "Fiery",
+   "module": "twilightforest",
+   "ingot": "twilightforest:fiery_ingot",
+   "ingot_tag": "c:ingots/fiery",
+   "durability": 1024,
+   "speed": 9.0,
+   "damage": 4.0,
+   "enchantability": 10,
+   "incorrect_for": "twilightforest:incorrect_for_fiery_tool",
+   "colours": [
+    "3a1a10",
+    "f0a020"
+   ],
+   "fireproof": true,
+   "rarity": "uncommon",
+   "traits": [
+    "spartan_weaponry_unofficial:fireproof",
+    "spartan_compat:ignite"
+   ]
+  },
+  {
+   "name": "neptunium",
+   "display": "Neptunium",
+   "module": "aquaculture",
+   "ingot": "aquaculture:neptunium_ingot",
+   "durability": 1796,
+   "speed": 8.5,
+   "damage": 3.5,
+   "enchantability": 14,
+   "incorrect_for": "minecraft:incorrect_for_diamond_tool",
+   "colours": [
+    "1f6b6b",
+    "7ff0d8"
+   ],
+   "traits": [
+    "spartan_compat:neptunes_might",
+    "spartan_compat:neptunes_strike"
+   ]
+  },
+  {
+   "name": "ignitium",
+   "display": "Ignitium",
+   "module": "cataclysm",
+   "ingot": "cataclysm:ignitium_ingot",
+   "upgrade_from_netherite": true,
+   "durability": 2500,
+   "speed": 9.0,
+   "damage": 7.0,
+   "enchantability": 20,
+   "incorrect_for": "minecraft:incorrect_for_netherite_tool",
+   "colours": [
+    "5a1a08",
+    "ffb030"
+   ],
+   "fireproof": true,
+   "unbreakable": true,
+   "rarity": "epic",
+   "upgrade_template": "cataclysm:ignitium_upgrade_smithing_template",
+   "explosion_immune": true,
+   "traits": [
+    "spartan_weaponry_unofficial:fireproof",
+    "spartan_compat:blazing_brand"
+   ]
+  },
+  {
+   "name": "cursium",
+   "display": "Cursium",
+   "module": "cataclysm",
+   "ingot": "cataclysm:cursium_ingot",
+   "upgrade_from_netherite": true,
+   "durability": 2500,
+   "speed": 9.0,
+   "damage": 6.0,
+   "enchantability": 20,
+   "incorrect_for": "minecraft:incorrect_for_netherite_tool",
+   "colours": [
+    "1c3a44",
+    "8ff0ff"
+   ],
+   "fireproof": true,
+   "unbreakable": true,
+   "rarity": "epic",
+   "upgrade_template": "cataclysm:cursium_upgrade_smithing_template",
+   "explosion_immune": true,
+   "traits": [
+    "spartan_weaponry_unofficial:fireproof",
+    "spartan_compat:accursed_rage"
+   ]
+  },
+  {
+   "name": "witherite",
+   "display": "Witherite",
+   "module": "cataclysm",
+   "ingot": "cataclysm:witherite_ingot",
+   "durability": 2500,
+   "speed": 7.0,
+   "damage": 6.0,
+   "enchantability": 18,
+   "incorrect_for": "minecraft:incorrect_for_netherite_tool",
+   "colours": [
+    "1e1e24",
+    "6a6a78"
+   ],
+   "fireproof": true,
+   "unbreakable": true,
+   "rarity": "epic",
+   "explosion_immune": true,
+   "smelts_into": "cataclysm:witherite_ingot",
+   "traits": [
+    "spartan_weaponry_unofficial:fireproof",
+    "spartan_compat:mecha_smite",
+    "spartan_compat:mecha_pulse"
+   ]
+  },
+  {
+   "name": "ancient_metal",
+   "display": "Ancient Metal",
+   "module": "cataclysm",
+   "ingot": "cataclysm:ancient_metal_ingot",
+   "durability": 750,
+   "speed": 8.0,
+   "damage": 2.0,
+   "enchantability": 25,
+   "incorrect_for": "minecraft:incorrect_for_iron_tool",
+   "colours": [
+    "6a5030",
+    "d8b070"
+   ],
+   "smelts_into": "cataclysm:ancient_metal_nugget",
+   "traits": [
+    "spartan_weaponry_unofficial:armor_piercing"
+   ]
+  },
+  {
+   "name": "black_steel",
+   "display": "Black Steel",
+   "module": "cataclysm",
+   "ingot": "cataclysm:black_steel_ingot",
+   "durability": 750,
+   "speed": 8.0,
+   "damage": 2.0,
+   "enchantability": 25,
+   "incorrect_for": "minecraft:incorrect_for_iron_tool",
+   "colours": [
+    "18181c",
+    "5a5a64"
+   ],
+   "smelts_into": "cataclysm:black_steel_nugget",
+   "traits": [
+    "spartan_weaponry_unofficial:shield_breach"
+   ]
+  },
+  {
+   "name": "necromium",
+   "display": "Necromium",
+   "module": "caverns_and_chasms",
+   "ingot": "caverns_and_chasms:necromium_ingot",
+   "ingot_tag": "c:ingots/necromium",
+   "durability": 2031,
+   "speed": 9.0,
+   "damage": 3.0,
+   "enchantability": 15,
+   "incorrect_for": "minecraft:incorrect_for_netherite_tool",
+   "colours": [
+    "2a3a2a",
+    "8ab08a"
+   ],
+   "traits": [
+    "numbing"
+   ],
+   "upgrade_from_diamond": true
+  },
+  {
+   "name": "thaumium",
+   "display": "Thaumium",
+   "module": "thaumaturge",
+   "ingot": "thaumaturge:ingot_thaumium",
+   "ingot_tag": "c:ingots/thaumium",
+   "durability": 400,
+   "speed": 7.0,
+   "damage": 2.5,
+   "enchantability": 22,
+   "incorrect_for": "minecraft:incorrect_for_iron_tool",
+   "colours": [
+    "534480",
+    "a99fcb"
+   ],
+   "traits": [
+    "spartan_weaponry_unofficial:lightweight_1"
+   ]
+  },
+  {
+   "name": "void_metal",
+   "display": "Void Metal",
+   "module": "thaumaturge",
+   "ingot": "thaumaturge:ingot_void",
+   "ingot_tag": "c:ingots/void_metal",
+   "durability": 300,
+   "speed": 8.0,
+   "damage": 3.5,
+   "enchantability": 10,
+   "incorrect_for": "minecraft:incorrect_for_diamond_tool",
+   "colours": [
+    "1b132b",
+    "5a3a8a"
+   ],
+   "traits": [
+    "spartan_compat:self_repair",
+    "spartan_compat:weakening"
+   ]
+  },
+  {
+   "name": "starsteel",
+   "display": "Starsteel",
+   "module": "quiverfall",
+   "ingot": "quiverfall:starsteel_ingot",
+   "durability": 1561,
+   "speed": 8.0,
+   "damage": 3.0,
+   "enchantability": 18,
+   "incorrect_for": "minecraft:incorrect_for_diamond_tool",
+   "colours": [
+    "8293c6",
+    "e8f0ff"
+   ],
+   "traits": [
+    "spartan_weaponry_unofficial:lightweight_2"
+   ]
+  },
+  {
+   "name": "eclipse",
+   "display": "Eclipse",
+   "module": "quiverfall",
+   "ingot": "quiverfall:eclipse_shell",
+   "upgrade_from_netherite": true,
+   "durability": 3200,
+   "speed": 10.0,
+   "damage": 5.0,
+   "enchantability": 25,
+   "incorrect_for": "minecraft:incorrect_for_netherite_tool",
+   "colours": [
+    "2a1e5a",
+    "ffde9f"
+   ],
+   "fireproof": true,
+   "traits": [
+    "spartan_weaponry_unofficial:fireproof",
+    "spartan_compat:weakening"
+   ]
+  },
+  {
+   "name": "cloggrum",
+   "display": "Cloggrum",
+   "module": "undergarden",
+   "ingot": "undergarden:cloggrum_ingot",
+   "ingot_tag": "c:ingots/cloggrum",
+   "durability": 250,
+   "speed": 6.0,
+   "damage": 2.0,
+   "enchantability": 14,
+   "incorrect_for": "minecraft:incorrect_for_iron_tool",
+   "colours": [
+    "7b6959",
+    "ba9d7b"
+   ],
+   "traits": [
+    "spartan_weaponry_unofficial:heavy_1"
+   ]
+  },
+  {
+   "name": "froststeel",
+   "display": "Froststeel",
+   "module": "undergarden",
+   "ingot": "undergarden:froststeel_ingot",
+   "ingot_tag": "c:ingots/froststeel",
+   "durability": 575,
+   "speed": 6.0,
+   "damage": 3.0,
+   "enchantability": 15,
+   "incorrect_for": "minecraft:incorrect_for_diamond_tool",
+   "colours": [
+    "84a5c5",
+    "e6edff"
+   ],
+   "traits": [
+    "spartan_compat:numbing"
+   ]
+  },
+  {
+   "name": "utherium",
+   "display": "Utherium",
+   "module": "undergarden",
+   "ingot": "undergarden:utherium_crystal",
+   "ingot_tag": "c:gems/utherium",
+   "durability": 1793,
+   "speed": 8.0,
+   "damage": 4.0,
+   "enchantability": 13,
+   "incorrect_for": "minecraft:incorrect_for_netherite_tool",
+   "colours": [
+    "983630",
+    "ffa398"
+   ],
+   "traits": [
+    "spartan_compat:rotbane"
+   ]
+  },
+  {
+   "name": "forgotten",
+   "display": "Forgotten",
+   "module": "undergarden",
+   "ingot": "undergarden:forgotten_ingot",
+   "ingot_tag": "c:ingots/forgotten_metal",
+   "durability": 1795,
+   "speed": 9.0,
+   "damage": 4.0,
+   "enchantability": 20,
+   "incorrect_for": "minecraft:incorrect_for_netherite_tool",
+   "colours": [
+    "28ab8a",
+    "8cffd0"
+   ],
+   "traits": [
+    "spartan_weaponry_unofficial:armor_piercing"
+   ]
+  },
+  {
+   "name": "resonarium",
+   "display": "Resonarium",
+   "module": "deeperdarker",
+   "ingot": "deeperdarker:resonarium_plate",
+   "durability": 1166,
+   "speed": 8.5,
+   "damage": 3.0,
+   "enchantability": 15,
+   "incorrect_for": "minecraft:incorrect_for_diamond_tool",
+   "colours": [
+    "58c7ef",
+    "b0ecf6"
+   ],
+   "traits": [
+    "spartan_weaponry_unofficial:extra_knockback"
+   ]
+  },
+  {
+   "name": "warden",
+   "display": "Warden",
+   "module": "deeperdarker",
+   "ingot": "deeperdarker:warden_carapace",
+   "upgrade_from_netherite": true,
+   "durability": 2519,
+   "speed": 10.0,
+   "damage": 5.0,
+   "enchantability": 18,
+   "incorrect_for": "minecraft:incorrect_for_netherite_tool",
+   "colours": [
+    "034150",
+    "3fa6a6"
+   ],
+   "fireproof": true,
+   "traits": [
+    "spartan_weaponry_unofficial:fireproof",
+    "spartan_compat:darkening"
+   ]
+  },
+  {
+   "name": "zanite",
+   "display": "Zanite",
+   "module": "aether",
+   "ingot": "aether:zanite_gemstone",
+   "durability": 250,
+   "speed": 6.0,
+   "damage": 2.0,
+   "enchantability": 14,
+   "incorrect_for": "minecraft:incorrect_for_iron_tool",
+   "colours": [
+    "763ace",
+    "ebe6f2"
+   ],
+   "traits": [
+    "spartan_compat:zanite_strength"
+   ]
+  },
+  {
+   "name": "gravitite",
+   "display": "Gravitite",
+   "module": "aether",
+   "ingot": "aether:enchanted_gravitite",
+   "durability": 1561,
+   "speed": 8.0,
+   "damage": 3.0,
+   "enchantability": 10,
+   "incorrect_for": "minecraft:incorrect_for_diamond_tool",
+   "colours": [
+    "bd42b2",
+    "f5d1f2"
+   ],
+   "traits": [
+    "spartan_compat:gravity_strike"
+   ]
+  },
+  {
+   "name": "allthemodium",
+   "display": "Allthemodium",
+   "module": "allthemodium",
+   "ingot": "allthemodium:allthemodium_ingot",
+   "ingot_tag": "c:ingots/allthemodium",
+   "upgrade_from_netherite": true,
+   "durability": 2400,
+   "speed": 10.0,
+   "damage": 6.0,
+   "enchantability": 20,
+   "incorrect_for": "minecraft:incorrect_for_netherite_tool",
+   "colours": [
+    "ff8b04",
+    "ffe070"
+   ],
+   "fireproof": true,
+   "traits": [
+    "spartan_weaponry_unofficial:fireproof",
+    "spartan_weaponry_unofficial:shield_breach"
+   ]
+  },
+  {
+   "name": "vibranium",
+   "display": "Vibranium",
+   "module": "allthemodium",
+   "ingot": "allthemodium:vibranium_ingot",
+   "ingot_tag": "c:ingots/vibranium",
+   "upgrade_from_netherite": true,
+   "durability": 3200,
+   "speed": 12.0,
+   "damage": 8.0,
+   "enchantability": 25,
+   "incorrect_for": "minecraft:incorrect_for_netherite_tool",
+   "colours": [
+    "178287",
+    "73ffb9"
+   ],
+   "fireproof": true,
+   "traits": [
+    "spartan_weaponry_unofficial:fireproof",
+    "spartan_weaponry_unofficial:armor_piercing"
+   ]
+  },
+  {
+   "name": "unobtainium",
+   "display": "Unobtainium",
+   "module": "allthemodium",
+   "ingot": "allthemodium:unobtainium_ingot",
+   "ingot_tag": "c:ingots/unobtainium",
+   "upgrade_from_netherite": true,
+   "durability": 4800,
+   "speed": 14.0,
+   "damage": 10.0,
+   "enchantability": 30,
+   "incorrect_for": "minecraft:incorrect_for_netherite_tool",
+   "colours": [
+    "6c1ce1",
+    "ea84f5"
+   ],
+   "fireproof": true,
+   "traits": [
+    "spartan_weaponry_unofficial:fireproof",
+    "spartan_compat:self_repair"
+   ]
+  },
+  {
+   "name": "osmium",
+   "display": "Osmium",
+   "module": "mekanismtools",
+   "ingot": "mekanism:ingot_osmium",
+   "ingot_tag": "c:ingots/osmium",
+   "durability": 1024,
+   "speed": 7.0,
+   "damage": 3.0,
+   "enchantability": 14,
+   "incorrect_for": "minecraft:incorrect_for_diamond_tool",
+   "colours": [
+    "a0abca",
+    "f9fcff"
+   ],
+   "traits": [
+    "spartan_weaponry_unofficial:heavy_2"
+   ]
+  },
+  {
+   "name": "refined_obsidian",
+   "display": "Refined Obsidian",
+   "module": "mekanismtools",
+   "ingot": "mekanism:ingot_refined_obsidian",
+   "ingot_tag": "c:ingots/refined_obsidian",
+   "durability": 4096,
+   "speed": 12.0,
+   "damage": 6.0,
+   "enchantability": 18,
+   "incorrect_for": "minecraft:incorrect_for_netherite_tool",
+   "colours": [
+    "64518b",
+    "c09fbf"
+   ],
+   "fireproof": true,
+   "traits": [
+    "spartan_weaponry_unofficial:fireproof",
+    "spartan_weaponry_unofficial:heavy_2"
+   ]
+  },
+  {
+   "name": "refined_glowstone",
+   "display": "Refined Glowstone",
+   "module": "mekanismtools",
+   "ingot": "mekanism:ingot_refined_glowstone",
+   "ingot_tag": "c:ingots/refined_glowstone",
+   "durability": 384,
+   "speed": 15.0,
+   "damage": 3.5,
+   "enchantability": 20,
+   "incorrect_for": "minecraft:incorrect_for_diamond_tool",
+   "colours": [
+    "ffdf7f",
+    "fffef9"
+   ],
+   "traits": [
+    "spartan_compat:glow_mark"
+   ]
+  },
+  {
+   "name": "lapis",
+   "display": "Lapis Lazuli",
+   "module": "mekanismtools",
+   "ingot": "minecraft:lapis_lazuli",
+   "ingot_tag": "c:gems/lapis",
+   "durability": 128,
+   "speed": 9.0,
+   "damage": 1.5,
+   "enchantability": 32,
+   "incorrect_for": "minecraft:incorrect_for_iron_tool",
+   "colours": [
+    "2a4cb0",
+    "7aa0ff"
+   ],
+   "traits": [
+    "spartan_compat:bountiful"
+   ]
+  },
+  {
+   "name": "soul_stained_steel",
+   "display": "Soul Stained Steel",
+   "module": "malum",
+   "ingot": "malum:soul_stained_steel_ingot",
+   "durability": 1250,
+   "speed": 7.5,
+   "damage": 3.0,
+   "enchantability": 16,
+   "incorrect_for": "minecraft:incorrect_for_diamond_tool",
+   "colours": [
+    "a96ec7",
+    "ffc5e4"
+   ],
+   "traits": [
+    "spartan_weaponry_unofficial:armor_piercing"
+   ]
+  },
+  {
+   "name": "hallowed_gold",
+   "display": "Hallowed Gold",
+   "module": "malum",
+   "ingot": "malum:hallowed_gold_ingot",
+   "durability": 250,
+   "speed": 9.0,
+   "damage": 1.5,
+   "enchantability": 24,
+   "incorrect_for": "minecraft:incorrect_for_iron_tool",
+   "colours": [
+    "d97f28",
+    "fffde9"
+   ],
+   "traits": [
+    "spartan_weaponry_unofficial:undead_damage_bonus"
+   ]
+  },
+  {
+   "name": "deorum",
+   "display": "Deorum",
+   "module": "forbidden_arcanus",
+   "ingot": "forbidden_arcanus:deorum_ingot",
+   "ingot_tag": "c:ingots/deorum",
+   "durability": 280,
+   "speed": 10.0,
+   "damage": 2.5,
+   "enchantability": 24,
+   "incorrect_for": "minecraft:incorrect_for_iron_tool",
+   "colours": [
+    "c17d18",
+    "ffe595"
+   ],
+   "traits": [
+    "spartan_weaponry_unofficial:lightweight_2"
+   ]
+  },
+  {
+   "name": "draco_arcanus",
+   "display": "Draco Arcanus",
+   "module": "forbidden_arcanus",
+   "ingot": "forbidden_arcanus:dragon_scale",
+   "upgrade_from_netherite": true,
+   "durability": 2661,
+   "speed": 12.0,
+   "damage": 5.0,
+   "enchantability": 20,
+   "incorrect_for": "minecraft:incorrect_for_netherite_tool",
+   "colours": [
+    "382542",
+    "7a5e8a"
+   ],
+   "fireproof": true,
+   "traits": [
+    "spartan_weaponry_unofficial:fireproof",
+    "spartan_compat:ignite"
+   ]
+  },
+  {
+   "name": "source_gem",
+   "display": "Source Gem",
+   "module": "ars_nouveau",
+   "ingot": "ars_nouveau:source_gem",
+   "durability": 500,
+   "speed": 6,
+   "damage": 2,
+   "enchantability": 22,
+   "incorrect_for": "minecraft:incorrect_for_diamond_tool",
+   "colours": [
+    "2d123f",
+    "dc9df7"
+   ],
+   "traits": [
+    "lightweight_1"
+   ]
+  },
+  {
+   "name": "iesnium",
+   "display": "Iesnium",
+   "module": "occultism",
+   "ingot": "occultism:iesnium_ingot",
+   "ingot_tag": "c:ingots/iesnium",
+   "durability": 2031,
+   "speed": 8,
+   "damage": 4,
+   "enchantability": 18,
+   "incorrect_for": "minecraft:incorrect_for_diamond_tool",
+   "colours": [
+    "093e40",
+    "8bf1e2"
+   ],
+   "traits": [
+    "armor_piercing"
+   ]
+  },
+  {
+   "name": "certus_quartz",
+   "display": "Certus Quartz",
+   "module": "ae2",
+   "ingot": "ae2:certus_quartz_crystal",
+   "ingot_tag": "c:gems/certus_quartz",
+   "durability": 250,
+   "speed": 6,
+   "damage": 2,
+   "enchantability": 15,
+   "incorrect_for": "minecraft:incorrect_for_diamond_tool",
+   "colours": [
+    "324369",
+    "d5f5ff"
+   ],
+   "traits": [
+    "lightweight_1"
+   ]
+  },
+  {
+   "name": "fluix",
+   "display": "Fluix",
+   "module": "ae2",
+   "ingot": "ae2:fluix_crystal",
+   "ingot_tag": "c:gems/fluix",
+   "durability": 750,
+   "speed": 7,
+   "damage": 3,
+   "enchantability": 18,
+   "incorrect_for": "minecraft:incorrect_for_diamond_tool",
+   "colours": [
+    "241334",
+    "ba93e7"
+   ],
+   "traits": [
+    "extra_knockback"
+   ]
+  },
+  {
+   "name": "brass",
+   "display": "Brass",
+   "module": "create",
+   "ingot": "create:brass_ingot",
+   "ingot_tag": "c:ingots/brass",
+   "durability": 250,
+   "speed": 6,
+   "damage": 2,
+   "enchantability": 18,
+   "incorrect_for": "minecraft:incorrect_for_iron_tool",
+   "colours": [
+    "67421a",
+    "ffde8b"
+   ],
+   "traits": [
+    "lightweight_1"
+   ]
+  },
+  {
+   "name": "zinc",
+   "display": "Zinc",
+   "module": "create",
+   "ingot": "create:zinc_ingot",
+   "ingot_tag": "c:ingots/zinc",
+   "durability": 200,
+   "speed": 5,
+   "damage": 1.5,
+   "enchantability": 14,
+   "incorrect_for": "minecraft:incorrect_for_iron_tool",
+   "colours": [
+    "3a4c43",
+    "d5e7d2"
+   ],
+   "traits": [
+    "extra_knockback"
+   ]
+  },
+  {
+   "name": "manasteel",
+   "display": "Manasteel",
+   "module": "botania",
+   "ingot": "botania:manasteel_ingot",
+   "ingot_tag": "c:ingots/manasteel",
+   "durability": 300,
+   "speed": 6.2,
+   "damage": 2.0,
+   "enchantability": 20,
+   "incorrect_for": "minecraft:incorrect_for_diamond_tool",
+   "colours": [
+    "211aa6",
+    "a5f1f9"
+   ],
+   "traits": [
+    "mana_repair"
+   ]
+  },
+  {
+   "name": "elementium",
+   "display": "Elementium",
+   "module": "botania",
+   "ingot": "botania:elementium_ingot",
+   "ingot_tag": "c:ingots/elementium",
+   "durability": 720,
+   "speed": 6.2,
+   "damage": 2.0,
+   "enchantability": 20,
+   "incorrect_for": "minecraft:incorrect_for_diamond_tool",
+   "colours": [
+    "621180",
+    "f1babe"
+   ],
+   "traits": [
+    "mana_repair",
+    "pixie_affinity"
+   ]
+  },
+  {
+   "name": "terrasteel",
+   "display": "Terrasteel",
+   "module": "botania",
+   "ingot": "botania:terrasteel_ingot",
+   "ingot_tag": "c:ingots/terrasteel",
+   "durability": 2300,
+   "speed": 9.0,
+   "damage": 4.0,
+   "enchantability": 26,
+   "incorrect_for": "minecraft:incorrect_for_netherite_tool",
+   "colours": [
+    "095c23",
+    "b8faa4"
+   ],
+   "traits": [
+    "mana_repair"
+   ],
+   "fireproof": true
+  },
+  {
+   "name": "dark_steel",
+   "display": "Dark Steel",
+   "module": "enderio",
+   "ingot": "enderio:dark_steel_ingot",
+   "ingot_tag": "c:ingots/dark_steel",
+   "durability": 2000,
+   "speed": 8.0,
+   "damage": 3.0,
+   "enchantability": 25,
+   "incorrect_for": "minecraft:incorrect_for_diamond_tool",
+   "colours": [
+    "3e3e3e",
+    "818181"
+   ],
+   "traits": [
+    "beheading",
+    "empowered"
+   ]
+  },
+  {
+   "name": "psimetal",
+   "display": "Psimetal",
+   "module": "psi",
+   "ingot": "psi:psimetal",
+   "durability": 900,
+   "speed": 7.8,
+   "damage": 2.0,
+   "enchantability": 12,
+   "incorrect_for": "minecraft:incorrect_for_diamond_tool",
+   "colours": [
+    "948bd7",
+    "cad3f7"
+   ],
+   "traits": [
+    "psi_programmable"
+   ]
+  },
+  {
+   "name": "amaramber",
+   "display": "Amaramber",
+   "module": "eternal_starlight",
+   "ingot": "eternal_starlight:amaramber_ingot",
+   "durability": 250,
+   "speed": 6.0,
+   "damage": 2.0,
+   "enchantability": 14,
+   "incorrect_for": "minecraft:incorrect_for_iron_tool",
+   "colours": [
+    "2b2837",
+    "a05475"
+   ],
+   "traits": []
+  },
+  {
+   "name": "deepsilver",
+   "display": "Deepsilver",
+   "module": "eternal_starlight",
+   "ingot": "eternal_starlight:deepsilver_ingot",
+   "durability": 800,
+   "speed": 12.0,
+   "damage": 2.0,
+   "enchantability": 10,
+   "incorrect_for": "minecraft:incorrect_for_iron_tool",
+   "colours": [
+    "4b437c",
+    "b6c9db"
+   ],
+   "traits": []
+  },
+  {
+   "name": "flowglaze",
+   "display": "Flowglaze",
+   "module": "eternal_starlight",
+   "ingot": "eternal_starlight:flowglaze",
+   "durability": 1000,
+   "speed": 8.5,
+   "damage": 2.5,
+   "enchantability": 15,
+   "incorrect_for": "minecraft:incorrect_for_diamond_tool",
+   "colours": [
+    "4f98d0",
+    "b7e4c4"
+   ],
+   "traits": [
+    "concentration"
+   ]
+  },
+  {
+   "name": "glacite",
+   "display": "Glacite",
+   "module": "eternal_starlight",
+   "ingot": "eternal_starlight:glacite_shard",
+   "ingot_tag": "c:gems/glacite",
+   "durability": 500,
+   "speed": 7.0,
+   "damage": 2.5,
+   "enchantability": 10,
+   "incorrect_for": "minecraft:incorrect_for_iron_tool",
+   "colours": [
+    "5d7bac",
+    "afd7ef"
+   ],
+   "traits": [
+    "frostbite"
+   ]
+  },
+  {
+   "name": "malarite",
+   "display": "Malarite",
+   "module": "eternal_starlight",
+   "ingot": "eternal_starlight:malarite",
+   "ingot_tag": "c:gems/malarite",
+   "durability": 400,
+   "speed": 6.0,
+   "damage": 2.0,
+   "enchantability": 10,
+   "incorrect_for": "minecraft:incorrect_for_iron_tool",
+   "colours": [
+    "203031",
+    "7a518a"
+   ],
+   "traits": [
+    "malarite_poison"
+   ]
+  },
+  {
+   "name": "starfire",
+   "display": "Starfire",
+   "module": "eternal_starlight",
+   "ingot": "eternal_starlight:starfire",
+   "durability": 1000,
+   "speed": 8.5,
+   "damage": 2.5,
+   "enchantability": 15,
+   "incorrect_for": "minecraft:incorrect_for_diamond_tool",
+   "colours": [
+    "ce2150",
+    "ffc354"
+   ],
+   "traits": [
+    "starfire"
+   ]
+  },
+  {
+   "name": "starlit_diamond",
+   "display": "Starlit Diamond",
+   "module": "eternal_starlight",
+   "ingot": "eternal_starlight:starlit_diamond",
+   "ingot_tag": "c:gems/starlit_diamond",
+   "durability": 2500,
+   "speed": 9.0,
+   "damage": 4.0,
+   "enchantability": 20,
+   "incorrect_for": "minecraft:incorrect_for_diamond_tool",
+   "colours": [
+    "4e56af",
+    "e6dbfe"
+   ],
+   "traits": []
+  },
+  {
+   "name": "thermal_springstone",
+   "display": "Thermal Springstone",
+   "module": "eternal_starlight",
+   "ingot": "eternal_starlight:thermal_springstone_ingot",
+   "durability": 400,
+   "speed": 7.0,
+   "damage": 2.0,
+   "enchantability": 10,
+   "incorrect_for": "minecraft:incorrect_for_iron_tool",
+   "colours": [
+    "452347",
+    "a38a6f"
+   ],
+   "traits": [
+    "scorching"
+   ]
+  },
+  {
+   "name": "unrealium",
+   "display": "Unrealium",
+   "module": "eternal_starlight",
+   "ingot": "eternal_starlight:unrealium_ingot",
+   "durability": 1200,
+   "speed": 15.0,
+   "damage": 4.0,
+   "enchantability": 22,
+   "incorrect_for": "minecraft:incorrect_for_diamond_tool",
+   "colours": [
+    "352d5a",
+    "e280c7"
+   ],
+   "traits": [
+    "unrealium_heft"
+   ]
+  },
+  {
+   "name": "infused_iron",
+   "display": "Infused Iron",
+   "module": "naturesaura",
+   "ingot": "naturesaura:infused_iron",
+   "durability": 250,
+   "speed": 6.0,
+   "damage": 2.0,
+   "enchantability": 16,
+   "incorrect_for": "minecraft:incorrect_for_iron_tool",
+   "colours": [
+    "2c9e33",
+    "34b33d"
+   ],
+   "traits": [
+    "na_slowing"
+   ]
+  },
+  {
+   "name": "sky",
+   "display": "Sky",
+   "module": "naturesaura",
+   "ingot": "naturesaura:sky_ingot",
+   "durability": 1500,
+   "speed": 8.0,
+   "damage": 3.0,
+   "enchantability": 12,
+   "incorrect_for": "minecraft:incorrect_for_diamond_tool",
+   "colours": [
+    "7ed7ff",
+    "99defe"
+   ],
+   "traits": [
+    "na_levitating"
+   ]
+  },
+  {
+   "name": "depth",
+   "display": "Depth",
+   "module": "naturesaura",
+   "ingot": "naturesaura:depth_ingot",
+   "durability": 2500,
+   "speed": 10.0,
+   "damage": 5.0,
+   "enchantability": 18,
+   "incorrect_for": "minecraft:incorrect_for_netherite_tool",
+   "colours": [
+    "54425e",
+    "5a4763"
+   ],
+   "traits": [
+    "depth_sweep"
+   ]
+  },
+  {
+   "name": "silver",
+   "display": "Silver",
+   "module": "eidolon_repraised",
+   "ingot": "eidolon_repraised:silver_ingot",
+   "base_twin": "silver",
+   "durability": 193,
+   "speed": 7.0,
+   "damage": 2.0,
+   "enchantability": 20,
+   "incorrect_for": "minecraft:incorrect_for_iron_tool",
+   "colours": [
+    "3d6f70",
+    "b2c9eb"
+   ],
+   "traits": [
+    "spartan_weaponry_unofficial:undead_damage_bonus"
+   ]
+  },
+  {
+   "name": "totemic_gold",
+   "display": "Totemic Gold",
+   "module": "l2complements",
+   "ingot": "l2complements:totemic_gold_ingot",
+   "durability": 1000,
+   "speed": 12.0,
+   "damage": 3.0,
+   "enchantability": 22,
+   "incorrect_for": "minecraft:incorrect_for_diamond_tool",
+   "colours": [
+    "ab6c29",
+    "f2e698"
+   ],
+   "traits": [
+    "totemic"
+   ]
+  },
+  {
+   "name": "poseidite",
+   "display": "Poseidite",
+   "module": "l2complements",
+   "ingot": "l2complements:poseidite_ingot",
+   "durability": 1500,
+   "speed": 8.0,
+   "damage": 4.0,
+   "enchantability": 14,
+   "incorrect_for": "minecraft:incorrect_for_netherite_tool",
+   "colours": [
+    "233b48",
+    "7bcdcf"
+   ],
+   "traits": [
+    "tidal"
+   ]
+  },
+  {
+   "name": "shulkerate",
+   "display": "Shulkerate",
+   "module": "l2complements",
+   "ingot": "l2complements:shulkerate_ingot",
+   "durability": 4000,
+   "speed": 8.0,
+   "damage": 4.0,
+   "enchantability": 14,
+   "incorrect_for": "minecraft:incorrect_for_netherite_tool",
+   "colours": [
+    "653974",
+    "946794"
+   ],
+   "traits": [
+    "shulker_reach"
+   ]
+  },
+  {
+   "name": "sculkium",
+   "display": "Sculkium",
+   "module": "l2complements",
+   "ingot": "l2complements:sculkium_ingot",
+   "durability": 2000,
+   "speed": 8.0,
+   "damage": 5.0,
+   "enchantability": 15,
+   "incorrect_for": "minecraft:incorrect_for_netherite_tool",
+   "colours": [
+    "04333e",
+    "6fa79c"
+   ],
+   "traits": []
+  },
+  {
+   "name": "eternium",
+   "display": "Eternium",
+   "module": "l2complements",
+   "ingot": "l2complements:eternium_ingot",
+   "durability": 9999,
+   "speed": 8.0,
+   "damage": 4.0,
+   "enchantability": 1,
+   "incorrect_for": "minecraft:incorrect_for_netherite_tool",
+   "colours": [
+    "0b287e",
+    "aeb3fe"
+   ],
+   "traits": [
+    "eternium"
+   ],
+   "unbreakable": true
+  },
+  {
+   "name": "accelerite",
+   "display": "Accelerite",
+   "module": "nexus",
+   "ingot": "nexus:charged_accelerite_ingot",
+   "durability": 500,
+   "speed": 6.0,
+   "damage": 2.0,
+   "enchantability": 16,
+   "incorrect_for": "minecraft:incorrect_for_iron_tool",
+   "colours": [
+    "193966",
+    "bfe3ff"
+   ],
+   "traits": [
+    "overclock"
+   ]
+  },
+  {
+   "name": "dawnstone",
+   "display": "Dawnstone",
+   "module": "embers",
+   "ingot": "embers:dawnstone_ingot",
+   "ingot_tag": "c:ingots/dawnstone",
+   "durability": 644,
+   "speed": 7.5,
+   "damage": 2.5,
+   "enchantability": 18,
+   "incorrect_for": "minecraft:incorrect_for_diamond_tool",
+   "colours": [
+    "372710",
+    "ffd890"
+   ],
+   "traits": [
+    "heat_sink"
+   ]
+  },
+  {
+   "name": "echo",
+   "display": "Echo",
+   "module": "create_deep_dark",
+   "ingot": "create_deep_dark:echo_ingot",
+   "ingot_tag": "c:ingots/echo",
+   "durability": 2124,
+   "speed": 9.0,
+   "damage": 4.0,
+   "enchantability": 16,
+   "incorrect_for": "minecraft:incorrect_for_diamond_tool",
+   "colours": [
+    "0d1117",
+    "29d4eb"
+   ],
+   "traits": [
+    "echo_strike"
+   ]
+  },
+  {
+   "name": "enderitium",
+   "display": "Enderitium",
+   "module": "legendary_monsters",
+   "ingot": "legendary_monsters:enderitium_ingot",
+   "durability": 2450,
+   "speed": 9.0,
+   "damage": 3.5,
+   "enchantability": 15,
+   "incorrect_for": "minecraft:incorrect_for_netherite_tool",
+   "colours": [
+    "132e37",
+    "85c682"
+   ],
+   "traits": [
+    "void_edge"
+   ]
+  },
+  {
+   "name": "arcane",
+   "display": "Arcane",
+   "module": "irons_spellbooks",
+   "ingot": "irons_spellbooks:arcane_ingot",
+   "durability": 600,
+   "speed": 7.0,
+   "damage": 2.5,
+   "enchantability": 22,
+   "incorrect_for": "minecraft:incorrect_for_iron_tool",
+   "colours": [
+    "3a589c",
+    "f5c5fd"
+   ],
+   "traits": [
+    "lightweight_1"
+   ]
+  },
+  {
+   "name": "mithril",
+   "display": "Mithril",
+   "module": "irons_spellbooks",
+   "ingot": "irons_spellbooks:mithril_ingot",
+   "ingot_tag": "c:ingots/mithril",
+   "durability": 1800,
+   "speed": 8.5,
+   "damage": 3.5,
+   "enchantability": 22,
+   "incorrect_for": "minecraft:incorrect_for_netherite_tool",
+   "colours": [
+    "3d5e71",
+    "defffe"
+   ],
+   "traits": [
+    "armor_piercing"
+   ]
+  },
+  {
+   "name": "pyrium",
+   "display": "Pyrium",
+   "module": "irons_spellbooks",
+   "ingot": "irons_spellbooks:pyrium_ingot",
+   "ingot_tag": "c:ingots/pyrium",
+   "durability": 1300,
+   "speed": 8.0,
+   "damage": 3.0,
+   "enchantability": 15,
+   "incorrect_for": "minecraft:incorrect_for_diamond_tool",
+   "colours": [
+    "391611",
+    "eaea9c"
+   ],
+   "traits": [
+    "spartan_weaponry_unofficial:fireproof",
+    "spartan_compat:ignite"
+   ]
+  },
+  {
+   "name": "shimmersteel",
+   "display": "Shimmersteel",
+   "module": "auroral",
+   "ingot": "auroral:shimmersteel_ingot",
+   "durability": 400,
+   "speed": 6.5,
+   "damage": 2.0,
+   "enchantability": 20,
+   "incorrect_for": "minecraft:incorrect_for_iron_tool",
+   "colours": [
+    "26266e",
+    "92dcf8"
+   ],
+   "traits": [
+    "spartan_compat:self_repair"
+   ]
+  },
+  {
+   "name": "pyro_spellweave",
+   "display": "Pyro Spellweave",
+   "module": "traveloptics",
+   "ingot": "traveloptics:pyro_spellweave_ingot",
+   "upgrade_from_netherite": true,
+   "durability": 2250,
+   "speed": 9.0,
+   "damage": 5.0,
+   "enchantability": 20,
+   "incorrect_for": "minecraft:incorrect_for_netherite_tool",
+   "colours": [
+    "45080e",
+    "fce136"
+   ],
+   "fireproof": true,
+   "rarity": "rare",
+   "explosion_immune": true,
+   "traits": [
+    "spartan_weaponry_unofficial:fireproof",
+    "spartan_compat:ignite"
+   ]
+  },
+  {
+   "name": "verdant_spellweave",
+   "display": "Verdant Spellweave",
+   "module": "traveloptics",
+   "ingot": "traveloptics:verdant_spellweave_ingot",
+   "upgrade_from_netherite": true,
+   "durability": 2250,
+   "speed": 9.0,
+   "damage": 4.0,
+   "enchantability": 20,
+   "incorrect_for": "minecraft:incorrect_for_netherite_tool",
+   "colours": [
+    "1f3c37",
+    "98e191"
+   ],
+   "rarity": "rare",
+   "explosion_immune": true,
+   "traits": [
+    "spartan_compat:na_slowing"
+   ]
+  },
+  {
+   "name": "void_spellweave",
+   "display": "Void Spellweave",
+   "module": "traveloptics",
+   "ingot": "traveloptics:void_spellweave_ingot",
+   "upgrade_from_netherite": true,
+   "durability": 2250,
+   "speed": 9.0,
+   "damage": 5.5,
+   "enchantability": 20,
+   "incorrect_for": "minecraft:incorrect_for_netherite_tool",
+   "colours": [
+    "24034c",
+    "eed6ff"
+   ],
+   "rarity": "rare",
+   "explosion_immune": true,
+   "traits": [
+    "spartan_compat:darkening"
+   ]
+  },
+  {
+   "name": "abyssal_spellweave",
+   "display": "Abyssal Spellweave",
+   "module": "traveloptics",
+   "ingot": "traveloptics:abyssal_spellweave_ingot",
+   "upgrade_from_netherite": true,
+   "durability": 2250,
+   "speed": 9.0,
+   "damage": 6.0,
+   "enchantability": 20,
+   "incorrect_for": "minecraft:incorrect_for_netherite_tool",
+   "colours": [
+    "0f003b",
+    "d094ff"
+   ],
+   "rarity": "rare",
+   "explosion_immune": true,
+   "traits": [
+    "spartan_compat:neptunes_might"
+   ]
+  }
+ ],
+ "review_pending_modules": []
+}

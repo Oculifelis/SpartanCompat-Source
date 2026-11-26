@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "mekanism:ingot_osmium",
+      "required": false
+    },
+    {
+      "id": "#c:ingots/osmium",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "occultism:iesnium_ingot",
+      "required": false
+    },
+    {
+      "id": "#c:ingots/iesnium",
+      "required": false
+    }
+  ]
+}

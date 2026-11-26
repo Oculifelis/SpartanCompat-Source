@@ -1,0 +1,156 @@
+{
+ "title": "Spartan wave 3 art",
+ "project": "Spartan Compat",
+ "owner": "Spartan Compat",
+ "whats_new": "Reworked to your wave 3 picks: only metals the mod really makes tools from. Thermal, Draconic, Iron's Spellbooks, Astral Sorcery and Fieldframe are gone; Eternal Starlight now has all 9 tool metals, Eidolon is silver only, Ender IO is dark steel only, Psi is psimetal only.",
+ "items": [
+  {
+   "id": "w3art-botania",
+   "title": "Botania weapons",
+   "detail": "Spartan iron sprites recoloured to each metal's own ingot, all 24 kinds and every bow and crossbow state. Each sheet: vanilla iron sword, Spartan iron longsword and the source item on top, then every kind at 1x (iron, recolour) and 4x.",
+   "ask": "Good = ship these colours, Bad = drop the material.",
+   "images": [
+    {
+     "src": "sheets/manasteel.png",
+     "caption": "Manasteel"
+    },
+    {
+     "src": "sheets/elementium.png",
+     "caption": "Elementium"
+    },
+    {
+     "src": "sheets/terrasteel.png",
+     "caption": "Terrasteel"
+    }
+   ]
+  },
+  {
+   "id": "w3art-enderio",
+   "title": "Ender IO weapons",
+   "detail": "Spartan iron sprites recoloured to each metal's own ingot, all 24 kinds and every bow and crossbow state. Each sheet: vanilla iron sword, Spartan iron longsword and the source item on top, then every kind at 1x (iron, recolour) and 4x.",
+   "ask": "Good = ship these colours, Bad = drop the material.",
+   "images": [
+    {
+     "src": "sheets/dark_steel.png",
+     "caption": "Dark Steel"
+    }
+   ]
+  },
+  {
+   "id": "w3art-psi",
+   "title": "Psi weapons",
+   "detail": "Spartan iron sprites recoloured to each metal's own ingot, all 24 kinds and every bow and crossbow state. Each sheet: vanilla iron sword, Spartan iron longsword and the source item on top, then every kind at 1x (iron, recolour) and 4x.",
+   "ask": "Good = ship these colours, Bad = drop the material.",
+   "images": [
+    {
+     "src": "sheets/psimetal.png",
+     "caption": "Psimetal"
+    }
+   ]
+  },
+  {
+   "id": "w3art-eternal_starlight",
+   "title": "Eternal Starlight weapons",
+   "detail": "Spartan iron sprites recoloured to each metal's own ingot, all 24 kinds and every bow and crossbow state. Each sheet: vanilla iron sword, Spartan iron longsword and the source item on top, then every kind at 1x (iron, recolour) and 4x.",
+   "ask": "Good = ship these colours, Bad = drop the material.",
+   "images": [
+    {
+     "src": "sheets/amaramber.png",
+     "caption": "Amaramber"
+    },
+    {
+     "src": "sheets/deepsilver.png",
+     "caption": "Deepsilver"
+    },
+    {
+     "src": "sheets/flowglaze.png",
+     "caption": "Flowglaze"
+    },
+    {
+     "src": "sheets/glacite.png",
+     "caption": "Glacite"
+    },
+    {
+     "src": "sheets/malarite.png",
+     "caption": "Malarite"
+    },
+    {
+     "src": "sheets/starfire.png",
+     "caption": "Starfire"
+    },
+    {
+     "src": "sheets/starlit_diamond.png",
+     "caption": "Starlit Diamond"
+    },
+    {
+     "src": "sheets/thermal_springstone.png",
+     "caption": "Thermal Springstone"
+    },
+    {
+     "src": "sheets/unrealium.png",
+     "caption": "Unrealium"
+    }
+   ]
+  },
+  {
+   "id": "w3art-naturesaura",
+   "title": "Nature's Aura weapons",
+   "detail": "Spartan iron sprites recoloured to each metal's own ingot, all 24 kinds and every bow and crossbow state. Each sheet: vanilla iron sword, Spartan iron longsword and the source item on top, then every kind at 1x (iron, recolour) and 4x.",
+   "ask": "Good = ship these colours, Bad = drop the material.",
+   "images": [
+    {
+     "src": "sheets/infused_iron.png",
+     "caption": "Infused Iron"
+    },
+    {
+     "src": "sheets/sky.png",
+     "caption": "Sky"
+    },
+    {
+     "src": "sheets/depth.png",
+     "caption": "Depth"
+    }
+   ]
+  },
+  {
+   "id": "w3art-eidolon_repraised",
+   "title": "Eidolon weapons",
+   "detail": "Spartan iron sprites recoloured to each metal's own ingot, all 24 kinds and every bow and crossbow state. Each sheet: vanilla iron sword, Spartan iron longsword and the source item on top, then every kind at 1x (iron, recolour) and 4x.",
+   "ask": "Good = ship these colours, Bad = drop the material.",
+   "images": [
+    {
+     "src": "sheets/silver.png",
+     "caption": "Silver"
+    }
+   ]
+  },
+  {
+   "id": "w3art-l2complements",
+   "title": "L2 Complements weapons",
+   "detail": "Spartan iron sprites recoloured to each metal's own ingot, all 24 kinds and every bow and crossbow state. Each sheet: vanilla iron sword, Spartan iron longsword and the source item on top, then every kind at 1x (iron, recolour) and 4x.",
+   "ask": "Good = ship these colours, Bad = drop the material.",
+   "images": [
+    {
+     "src": "sheets/eternium.png",
+     "caption": "Eternium"
+    },
+    {
+     "src": "sheets/poseidite.png",
+     "caption": "Poseidite"
+    },
+    {
+     "src": "sheets/sculkium.png",
+     "caption": "Sculkium"
+    },
+    {
+     "src": "sheets/shulkerate.png",
+     "caption": "Shulkerate"
+    },
+    {
+     "src": "sheets/totemic_gold.png",
+     "caption": "Totemic Gold"
+    }
+   ]
+  }
+ ]
+}

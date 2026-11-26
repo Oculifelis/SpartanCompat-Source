@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "eternal_starlight:glacite_shard",
+      "required": false
+    },
+    {
+      "id": "#c:gems/glacite",
+      "required": false
+    }
+  ]
+}

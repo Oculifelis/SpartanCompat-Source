@@ -1,0 +1,9 @@
+{
+  "sources": [
+    {"type": "minecraft:single", "resource": "minecraft:mob_effect/weakness", "sprite": "spartan_compat:blazing_brand"},
+    {"type": "minecraft:single", "resource": "minecraft:mob_effect/strength", "sprite": "spartan_compat:accursed_rage"},
+    {"type": "minecraft:single", "resource": "minecraft:mob_effect/strength", "sprite": "spartan_compat:pulse_charge"},
+    {"type": "minecraft:single", "resource": "minecraft:mob_effect/mining_fatigue", "sprite": "spartan_compat:pulse_cooldown"},
+    {"type": "minecraft:single", "resource": "minecraft:mob_effect/slowness", "sprite": "spartan_compat:stun"}
+  ]
+}

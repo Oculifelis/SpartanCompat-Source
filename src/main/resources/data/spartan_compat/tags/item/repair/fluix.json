@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "ae2:fluix_crystal",
+      "required": false
+    },
+    {
+      "id": "#c:gems/fluix",
+      "required": false
+    }
+  ]
+}

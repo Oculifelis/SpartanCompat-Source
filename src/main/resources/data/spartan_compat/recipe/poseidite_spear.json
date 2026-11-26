@@ -1,0 +1,41 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "spartan_weaponry_unofficial:type_disabled",
+      "disabled": [
+        "spear"
+      ]
+    },
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "l2complements"
+    },
+    {
+      "type": "neoforge:item_exists",
+      "item": "l2complements:poseidite_ingot"
+    },
+    {
+      "type": "neoforge:item_exists",
+      "item": "spartan_compat:poseidite_spear"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "group": "spartan_weaponry_unofficial:spear",
+  "key": {
+    "#": {
+      "item": "l2complements:poseidite_ingot"
+    },
+    "/": {
+      "tag": "spartan_weaponry_unofficial:poles"
+    }
+  },
+  "pattern": [
+    "#",
+    "/"
+  ],
+  "result": {
+    "count": 1,
+    "id": "spartan_compat:poseidite_spear"
+  }
+}

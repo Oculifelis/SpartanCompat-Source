@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "twilightforest:fiery_ingot",
+      "required": false
+    },
+    {
+      "id": "#c:ingots/fiery",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "values": [
+    {
+      "id": "spartan_compat:starlit_diamond_dagger",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:starlit_diamond_parrying_dagger",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:starlit_diamond_longsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:starlit_diamond_katana",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:starlit_diamond_saber",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:starlit_diamond_rapier",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:starlit_diamond_greatsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:starlit_diamond_battle_hammer",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:starlit_diamond_warhammer",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:starlit_diamond_spear",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:starlit_diamond_halberd",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:starlit_diamond_pike",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:starlit_diamond_lance",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:starlit_diamond_longbow",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:starlit_diamond_heavy_crossbow",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:starlit_diamond_throwing_knife",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:starlit_diamond_tomahawk",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:starlit_diamond_javelin",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:starlit_diamond_boomerang",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:starlit_diamond_battleaxe",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:starlit_diamond_flanged_mace",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:starlit_diamond_glaive",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:starlit_diamond_quarterstaff",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:starlit_diamond_scythe",
+      "required": false
+    }
+  ]
+}

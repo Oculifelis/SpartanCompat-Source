@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "ae2:certus_quartz_crystal",
+      "required": false
+    },
+    {
+      "id": "#c:gems/certus_quartz",
+      "required": false
+    }
+  ]
+}

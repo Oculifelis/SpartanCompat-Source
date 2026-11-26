@@ -1,0 +1,100 @@
+{
+  "values": [
+    {
+      "id": "spartan_compat:flowglaze_dagger",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:flowglaze_parrying_dagger",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:flowglaze_longsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:flowglaze_katana",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:flowglaze_saber",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:flowglaze_rapier",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:flowglaze_greatsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:flowglaze_battle_hammer",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:flowglaze_warhammer",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:flowglaze_spear",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:flowglaze_halberd",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:flowglaze_pike",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:flowglaze_lance",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:flowglaze_longbow",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:flowglaze_heavy_crossbow",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:flowglaze_throwing_knife",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:flowglaze_tomahawk",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:flowglaze_javelin",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:flowglaze_boomerang",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:flowglaze_battleaxe",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:flowglaze_flanged_mace",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:flowglaze_glaive",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:flowglaze_quarterstaff",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:flowglaze_scythe",
+      "required": false
+    }
+  ]
+}

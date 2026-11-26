@@ -1,0 +1,36 @@
+{
+ "title": "Spartan wave 5 art",
+ "project": "Spartan Compat",
+ "owner": "spartan-compat-r4",
+ "whats_new": "Round 2 for the page note \"ensure these all have proper mod material handles and such if appropriate\". The four metals keep the colours marked Good, but the grips and bindings now come from each mod's own weapons instead of Spartan's oak and copper. Elementus goes ahead on 1.20.1 in its own round.",
+ "items": [
+  {
+   "id": "w5art-arcane",
+   "title": "Iron's Spellbooks: Arcane weapons",
+   "detail": "Same Arcane blade colours marked Good last round. Grip is now the dark leather from the Iron's Spellbooks Magehunter, and the bindings and pommel bands are the Magehunter's steel-blue guard.",
+   "ask": "Good = ship this grip and binding, Needs changes = say what to shift, Bad = go back to Spartan's oak and copper.",
+   "images": [{"src": "sheets/arcane.png", "caption": "Arcane with Magehunter grip"}]
+  },
+  {
+   "id": "w5art-mithril",
+   "title": "Iron's Spellbooks: Mithril weapons",
+   "detail": "Same Mithril blade colours marked Good last round. Grip is now the Keeper Flamberge's dark red-brown leather, and the bindings are the teal of the Spellbreaker's fittings.",
+   "ask": "Good = ship this grip and binding, Needs changes = say what to shift, Bad = go back to Spartan's oak and copper.",
+   "images": [{"src": "sheets/mithril.png", "caption": "Mithril with Keeper Flamberge grip"}]
+  },
+  {
+   "id": "w5art-pyrium",
+   "title": "Iron's Spellbooks: Pyrium weapons",
+   "detail": "Same Pyrium blade colours marked Good last round. Grip and shafts now use the Pyrium Staff's own haft colours (scorched red-brown), and the bindings are the staff's gold bands.",
+   "ask": "Good = ship this grip and binding, Needs changes = say what to shift, Bad = go back to Spartan's oak and copper.",
+   "images": [{"src": "sheets/pyrium.png", "caption": "Pyrium with Pyrium Staff haft"}]
+  },
+  {
+   "id": "w5art-shimmersteel",
+   "title": "Auroral: Shimmersteel weapons",
+   "detail": "Same Shimmersteel blade colours marked Good last round. Grip and shafts now use Auroral's own Shimmer Handle wood, and the bindings and wraps are the teal from the Shimmersteel Sword's guard and grip.",
+   "ask": "Good = ship this grip and binding, Needs changes = say what to shift, Bad = go back to Spartan's oak and copper.",
+   "images": [{"src": "sheets/shimmersteel.png", "caption": "Shimmersteel with Shimmer Handle grip"}]
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "title": "Spartan wave 5 art",
+ "project": "Spartan Compat",
+ "owner": "spartan-compat-r4",
+ "whats_new": "Weapon art for four new 1.21.1 metals: Iron's Spellbooks Arcane, Mithril and Pyrium, and Auroral Shimmersteel. Traits reuse existing ones and can be changed with Needs changes. Elementus has no 1.21.1 version, so it gets its own question.",
+ "items": [
+  {
+   "id": "w5art-arcane",
+   "title": "Iron's Spellbooks: Arcane weapons",
+   "detail": "Arcane ingot is the Iron's Spellbooks crafting metal for its arcane gear (1.21.1, mod 3.16.3). Stats picked as a light caster metal: 600 durability, +2.5 damage, enchantability 22, iron tool level. Trait: Lightweight I (an existing Spartan trait, same as Source Gem). Spartan's iron sprites recoloured to the mod's own ingot, same style as the approved wave 3 and 4 sets: all 24 kinds plus bow and crossbow states. Top row: vanilla iron sword, Spartan iron longsword, source ingot; then every kind at 1x and 4x. The module stays off by default until this art is Good.",
+   "ask": "Good = ship these colours and this trait, Needs changes = say what to shift, Bad = drop the material.",
+   "images": [{"src": "sheets/arcane.png", "caption": "Arcane"}]
+  },
+  {
+   "id": "w5art-mithril",
+   "title": "Iron's Spellbooks: Mithril weapons",
+   "detail": "Mithril is the Iron's Spellbooks top-tier metal (mithril scraps from ancient ruins). Stats near netherite: 1800 durability, +3.5 damage, enchantability 22, netherite tool level. Trait: Armor Piercing (existing Spartan trait, same as Iesnium). It shares the c:ingots/mithril tag, so Metallurgy mithril crafts these too. Spartan's iron sprites recoloured to the mod's own ingot, same style as the approved wave 3 and 4 sets: all 24 kinds plus bow and crossbow states. Top row: vanilla iron sword, Spartan iron longsword, source ingot; then every kind at 1x and 4x. The module stays off by default until this art is Good.",
+   "ask": "Good = ship these colours and this trait, Needs changes = say what to shift, Bad = drop the material.",
+   "images": [{"src": "sheets/mithril.png", "caption": "Mithril"}]
+  },
+  {
+   "id": "w5art-pyrium",
+   "title": "Iron's Spellbooks: Pyrium weapons",
+   "detail": "Pyrium is the Iron's Spellbooks fire metal. Stats between diamond and netherite: 1300 durability, +3.0 damage, enchantability 15, diamond tool level. Traits: Fireproof (Spartan's own, the item survives lava) and Ignite (existing Spartan Compat trait, sets targets on fire). Spartan's iron sprites recoloured to the mod's own ingot, same style as the approved wave 3 and 4 sets: all 24 kinds plus bow and crossbow states. Top row: vanilla iron sword, Spartan iron longsword, source ingot; then every kind at 1x and 4x. The module stays off by default until this art is Good.",
+   "ask": "Good = ship these colours and these traits, Needs changes = say what to shift, Bad = drop the material.",
+   "images": [{"src": "sheets/pyrium.png", "caption": "Pyrium"}]
+  },
+  {
+   "id": "w5art-shimmersteel",
+   "title": "Auroral: Shimmersteel weapons",
+   "detail": "Shimmersteel is the metal from Auroral (Saereth's aurora mod, 1.21.1 version 1.1.5), read as the 'auroral mods' in the request. That mod calls it slightly better than iron with high enchantability, and its gear mends during an aurora. Stats: 400 durability, +2.0 damage, enchantability 20, iron tool level. Trait: Self-Repair (existing Spartan Compat trait, mends 1 durability every 10 seconds while carried). The donor ingot shifts from cyan to violet, so its colour ramp was set by hand to keep the violet shadows. Same recolour method and sheet layout as the other three. The module stays off by default until this art is Good.",
+   "ask": "Good = ship these colours and this trait, Needs changes = say what to shift, Bad = drop the material.",
+   "images": [{"src": "sheets/shimmersteel.png", "caption": "Shimmersteel"}]
+  },
+  {
+   "id": "w5-elementus",
+   "title": "Elementus: no 1.21.1 version",
+   "detail": "The request named Elementus, Iron's Spellbooks, Occultism and Auroral. Elementus has no 1.21.1 build anywhere; its newest is for 1.20.x (MIT licence). Its metals are Anthektite and Diarkrite (pictured, the mod's own ingots); its Steel is already covered by the shared steel tag. Spartan Compat 1.20.1 is a separate branch with its own release, so adding them means a second art round and a 1.20.1 build. Occultism needs nothing new: Iesnium is already in, and its silver uses Spartan's own silver weapons.",
+   "ask": "Add Elementus Anthektite and Diarkrite to Spartan Compat 1.20.1?",
+   "choices": ["Add them on 1.20.1", "Skip Elementus"],
+   "images": [{"src": "donors/elementus_anthektite.png", "caption": "Anthektite ingot", "pixel": true}, {"src": "donors/elementus_diarkrite.png", "caption": "Diarkrite ingot", "pixel": true}]
+  }
+ ]
+}

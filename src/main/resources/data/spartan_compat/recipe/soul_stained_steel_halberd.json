@@ -1,0 +1,42 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "spartan_weaponry_unofficial:type_disabled",
+      "disabled": [
+        "halberd"
+      ]
+    },
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "malum"
+    },
+    {
+      "type": "neoforge:item_exists",
+      "item": "malum:soul_stained_steel_ingot"
+    },
+    {
+      "type": "neoforge:item_exists",
+      "item": "spartan_compat:soul_stained_steel_halberd"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "group": "spartan_weaponry_unofficial:halberd",
+  "key": {
+    "#": {
+      "item": "malum:soul_stained_steel_ingot"
+    },
+    "/": {
+      "item": "spartan_weaponry_unofficial:pole"
+    }
+  },
+  "pattern": [
+    " #",
+    "##",
+    "#/"
+  ],
+  "result": {
+    "count": 1,
+    "id": "spartan_compat:soul_stained_steel_halberd"
+  }
+}

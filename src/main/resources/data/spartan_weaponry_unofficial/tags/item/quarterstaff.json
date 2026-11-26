@@ -1,0 +1,304 @@
+{
+  "values": [
+    {
+      "id": "spartan_compat:ironwood_quarterstaff",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:steeleaf_quarterstaff",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:knightmetal_quarterstaff",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:fiery_quarterstaff",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:neptunium_quarterstaff",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:ignitium_quarterstaff",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:cursium_quarterstaff",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:witherite_quarterstaff",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:ancient_metal_quarterstaff",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:black_steel_quarterstaff",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:necromium_quarterstaff",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:thaumium_quarterstaff",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:void_metal_quarterstaff",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:starsteel_quarterstaff",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:eclipse_quarterstaff",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:cloggrum_quarterstaff",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:froststeel_quarterstaff",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:utherium_quarterstaff",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:forgotten_quarterstaff",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:resonarium_quarterstaff",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:warden_quarterstaff",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:zanite_quarterstaff",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:gravitite_quarterstaff",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:allthemodium_quarterstaff",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:vibranium_quarterstaff",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:unobtainium_quarterstaff",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:osmium_quarterstaff",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:refined_obsidian_quarterstaff",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:refined_glowstone_quarterstaff",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:lapis_quarterstaff",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:soul_stained_steel_quarterstaff",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:hallowed_gold_quarterstaff",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:deorum_quarterstaff",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:draco_arcanus_quarterstaff",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:source_gem_quarterstaff",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:iesnium_quarterstaff",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:certus_quartz_quarterstaff",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:fluix_quarterstaff",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:brass_quarterstaff",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:zinc_quarterstaff",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:manasteel_quarterstaff",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:elementium_quarterstaff",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:terrasteel_quarterstaff",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:dark_steel_quarterstaff",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:psimetal_quarterstaff",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:amaramber_quarterstaff",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:deepsilver_quarterstaff",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:flowglaze_quarterstaff",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:glacite_quarterstaff",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:malarite_quarterstaff",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:starfire_quarterstaff",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:starlit_diamond_quarterstaff",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:thermal_springstone_quarterstaff",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:unrealium_quarterstaff",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:infused_iron_quarterstaff",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:sky_quarterstaff",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:depth_quarterstaff",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:silver_quarterstaff",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:totemic_gold_quarterstaff",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:poseidite_quarterstaff",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:shulkerate_quarterstaff",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:sculkium_quarterstaff",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:eternium_quarterstaff",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:accelerite_quarterstaff",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:dawnstone_quarterstaff",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:echo_quarterstaff",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:enderitium_quarterstaff",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:arcane_quarterstaff",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:mithril_quarterstaff",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:pyrium_quarterstaff",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:shimmersteel_quarterstaff",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:pyro_spellweave_quarterstaff",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:verdant_spellweave_quarterstaff",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:void_spellweave_quarterstaff",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:abyssal_spellweave_quarterstaff",
+      "required": false
+    }
+  ]
+}

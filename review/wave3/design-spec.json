@@ -1,0 +1,32 @@
+{
+ "title": "Spartan wave 3 design picks",
+ "project": "Spartan Compat",
+ "owner": "Spartan Compat",
+ "whats_new": "Three calls on how the Psi, Ender IO and Terrasteel weapons work. Option A of each is already built and switched on behind a config flag; pick another and I'll swap it.",
+ "items": [
+  {
+   "id": "w3design-psi",
+   "title": "Psimetal weapons: how you program them",
+   "detail": "A (built): they work exactly like Psi's own psimetal tools. Three bullet sockets you fill in the CAD Assembler or the socket wheel, the selected spell casts on every hit with the target set, and they mend themselves from psi while not held. Nothing new to learn. B: same, plus a fourth socket on the two-handed kinds (greatsword, halberd, pike, warhammer) so big weapons hold more spells. C: one fixed socket per weapon and no socket wheel, simpler but less like Psi. Config: psi_cast_enabled in traits.json turns hit casting off.",
+   "ask": "Which way should psimetal weapons work?",
+   "choices": ["A: like Psi tools, 3 sockets", "B: 4 sockets on two-handers", "C: one fixed socket"],
+   "verdicts": false
+  },
+  {
+   "id": "w3design-eio",
+   "title": "Dark steel weapons: energy",
+   "detail": "Ender IO 1.21.1 has no powered tools yet, so this is my own design in its spirit. A (built): each dark steel weapon stores up to 100,000 FE, charged in any Forge Energy charger. Stored energy takes wear instead of durability (250 FE a point) and each charged hit uses 500 FE for +1 damage. Beheading (7% head drop) works with or without power. B: energy only takes wear, no damage bonus, so it's a pure convenience. C: no energy at all, just beheading and a sturdier tier. Config: dark_steel_energy_enabled and the empowered_* numbers in traits.json.",
+   "ask": "How should dark steel use energy?",
+   "choices": ["A: wear + charged hits", "B: wear only", "C: no energy"],
+   "verdicts": false
+  },
+  {
+   "id": "w3design-terra",
+   "title": "Terrasteel weapons: Terra beam",
+   "detail": "A (built): a full-strength swing (on a mob or at the air) fires Botania's own Terra Blade beam, same damage, sound and look, for 1 durability, which the weapon mends back from your mana. B: only swords, katanas, sabers and longswords fire it; heavy weapons get a bigger Terrasteel hit instead. C: no beam, just mana repair. Config: terra_beam_enabled in traits.json.",
+   "ask": "Which terrasteel weapons fire the beam?",
+   "choices": ["A: every melee kind", "B: sword kinds only", "C: no beam"],
+   "verdicts": false
+  }
+ ]
+}

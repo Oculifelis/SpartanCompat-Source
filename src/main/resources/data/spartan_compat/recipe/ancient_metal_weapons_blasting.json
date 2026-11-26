@@ -1,0 +1,23 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "cataclysm"
+    },
+    {
+      "type": "neoforge:item_exists",
+      "item": "cataclysm:ancient_metal_nugget"
+    }
+  ],
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "ingredient": {
+    "tag": "spartan_compat:ancient_metal_weapons"
+  },
+  "result": {
+    "id": "cataclysm:ancient_metal_nugget",
+    "count": 1
+  },
+  "experience": 1.0,
+  "cookingtime": 100
+}

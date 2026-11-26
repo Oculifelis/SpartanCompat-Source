@@ -1,0 +1,9 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "dev.oculifelis.spartancompat.gametest.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": ["SidedCodecMixin", "DuplicateValueMixin"],
+  "client": ["NoGrabMixin", "WindowMixin"],
+  "injectors": {"defaultRequire": 1}
+}

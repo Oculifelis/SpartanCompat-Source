@@ -1,0 +1,42 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "spartan_weaponry_unofficial:type_disabled",
+      "disabled": [
+        "greatsword"
+      ]
+    },
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "mekanismtools"
+    },
+    {
+      "type": "neoforge:item_exists",
+      "item": "minecraft:lapis_lazuli"
+    },
+    {
+      "type": "neoforge:item_exists",
+      "item": "spartan_compat:lapis_greatsword"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "group": "spartan_weaponry_unofficial:greatsword",
+  "key": {
+    "#": {
+      "tag": "c:gems/lapis"
+    },
+    "|": {
+      "item": "spartan_weaponry_unofficial:handle"
+    }
+  },
+  "pattern": [
+    " # ",
+    "###",
+    "#|#"
+  ],
+  "result": {
+    "count": 1,
+    "id": "spartan_compat:lapis_greatsword"
+  }
+}

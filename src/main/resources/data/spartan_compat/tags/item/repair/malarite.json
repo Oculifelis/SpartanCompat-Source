@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "eternal_starlight:malarite",
+      "required": false
+    },
+    {
+      "id": "#c:gems/malarite",
+      "required": false
+    }
+  ]
+}

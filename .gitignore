@@ -1,0 +1,10 @@
+build/
+run/
+run-*/
+libs/
+.gradle/
+.idea/
+*.iml
+out/
+*.log
+/SHIELDS-STATE.md

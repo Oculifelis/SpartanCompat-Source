@@ -1,0 +1,304 @@
+{
+  "values": [
+    {
+      "id": "spartan_compat:ironwood_longsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:steeleaf_longsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:knightmetal_longsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:fiery_longsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:neptunium_longsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:ignitium_longsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:cursium_longsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:witherite_longsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:ancient_metal_longsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:black_steel_longsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:necromium_longsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:thaumium_longsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:void_metal_longsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:starsteel_longsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:eclipse_longsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:cloggrum_longsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:froststeel_longsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:utherium_longsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:forgotten_longsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:resonarium_longsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:warden_longsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:zanite_longsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:gravitite_longsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:allthemodium_longsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:vibranium_longsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:unobtainium_longsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:osmium_longsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:refined_obsidian_longsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:refined_glowstone_longsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:lapis_longsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:soul_stained_steel_longsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:hallowed_gold_longsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:deorum_longsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:draco_arcanus_longsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:source_gem_longsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:iesnium_longsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:certus_quartz_longsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:fluix_longsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:brass_longsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:zinc_longsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:manasteel_longsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:elementium_longsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:terrasteel_longsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:dark_steel_longsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:psimetal_longsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:amaramber_longsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:deepsilver_longsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:flowglaze_longsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:glacite_longsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:malarite_longsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:starfire_longsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:starlit_diamond_longsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:thermal_springstone_longsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:unrealium_longsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:infused_iron_longsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:sky_longsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:depth_longsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:silver_longsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:totemic_gold_longsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:poseidite_longsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:shulkerate_longsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:sculkium_longsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:eternium_longsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:accelerite_longsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:dawnstone_longsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:echo_longsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:enderitium_longsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:arcane_longsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:mithril_longsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:pyrium_longsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:shimmersteel_longsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:pyro_spellweave_longsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:verdant_spellweave_longsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:void_spellweave_longsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:abyssal_spellweave_longsword",
+      "required": false
+    }
+  ]
+}

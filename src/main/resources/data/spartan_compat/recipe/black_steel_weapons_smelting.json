@@ -1,0 +1,23 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "cataclysm"
+    },
+    {
+      "type": "neoforge:item_exists",
+      "item": "cataclysm:black_steel_nugget"
+    }
+  ],
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": {
+    "tag": "spartan_compat:black_steel_weapons"
+  },
+  "result": {
+    "id": "cataclysm:black_steel_nugget",
+    "count": 1
+  },
+  "experience": 1.0,
+  "cookingtime": 200
+}

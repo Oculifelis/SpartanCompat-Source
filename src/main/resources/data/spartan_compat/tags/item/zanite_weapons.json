@@ -1,0 +1,100 @@
+{
+  "values": [
+    {
+      "id": "spartan_compat:zanite_dagger",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:zanite_parrying_dagger",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:zanite_longsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:zanite_katana",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:zanite_saber",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:zanite_rapier",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:zanite_greatsword",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:zanite_battle_hammer",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:zanite_warhammer",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:zanite_spear",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:zanite_halberd",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:zanite_pike",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:zanite_lance",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:zanite_longbow",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:zanite_heavy_crossbow",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:zanite_throwing_knife",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:zanite_tomahawk",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:zanite_javelin",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:zanite_boomerang",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:zanite_battleaxe",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:zanite_flanged_mace",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:zanite_glaive",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:zanite_quarterstaff",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:zanite_scythe",
+      "required": false
+    }
+  ]
+}

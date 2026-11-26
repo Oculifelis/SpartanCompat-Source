@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "minecraft:lapis_lazuli",
+      "required": false
+    },
+    {
+      "id": "#c:gems/lapis",
+      "required": false
+    }
+  ]
+}

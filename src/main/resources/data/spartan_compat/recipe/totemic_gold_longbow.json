@@ -1,0 +1,48 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "spartan_weaponry_unofficial:type_disabled",
+      "disabled": [
+        "longbow"
+      ]
+    },
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "l2complements"
+    },
+    {
+      "type": "neoforge:item_exists",
+      "item": "l2complements:totemic_gold_ingot"
+    },
+    {
+      "type": "neoforge:item_exists",
+      "item": "spartan_compat:totemic_gold_longbow"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "group": "spartan_weaponry_unofficial:longbow",
+  "key": {
+    "#": {
+      "item": "l2complements:totemic_gold_ingot"
+    },
+    "/": {
+      "tag": "c:rods/wooden"
+    },
+    "|": {
+      "item": "spartan_weaponry_unofficial:handle"
+    },
+    "~": {
+      "tag": "c:strings"
+    }
+  },
+  "pattern": [
+    "|/#",
+    "/ ~",
+    "#~~"
+  ],
+  "result": {
+    "count": 1,
+    "id": "spartan_compat:totemic_gold_longbow"
+  }
+}

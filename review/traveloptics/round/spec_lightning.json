@@ -1,0 +1,21 @@
+{
+ "items": [
+  {
+   "id": "lightning_spellweave",
+   "title": "Lightning Spellweave (1.20.1)",
+   "detail": "Spartan Compat, T.O Magic 'n Extras module. Added after the 'Add both' pick on spartan-traveloptics-r1. Lightning Spellweave ingot drops from Tremorzilla on 1.20.1 (T.O 1.21.1 has no way to get it, so 1.20.1 only). Same boss tier as the other six: netherite smithing upgrade, durability 2250, speed 9.0, enchantability 20, rare, explosion proof, 5.5 damage (T.O's Harbinger's Wrath sits between Void and Abyssal), trait numbing (a chance to stun on hit). Art is Spartan iron recoloured with the ingot's storm-blue ramp, a slate grip from Harbinger's Wrath and the ingot's yellow sparks as gold bindings; no T.O pixels copied. Good turns it on by default; until then it ships switched off. Needs changes gets a repaint; Bad drops it.",
+   "ask": "Ship Lightning Spellweave with this art?",
+   "images": [
+    {
+     "src": "lightning_spellweave_closeup.png",
+     "caption": "Longsword, greatsword, halberd, battle hammer, scythe, longbow at 8x",
+     "pixel": true
+    },
+    {
+     "src": "lightning_spellweave.png",
+     "caption": "Every weapon, 1x and 4x, with the colour swatch read from T.O"
+    }
+   ]
+  }
+ ]
+}

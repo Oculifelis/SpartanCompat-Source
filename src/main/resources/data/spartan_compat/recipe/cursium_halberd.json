@@ -1,0 +1,36 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "spartan_weaponry_unofficial:type_disabled",
+      "disabled": [
+        "halberd"
+      ]
+    },
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "cataclysm"
+    },
+    {
+      "type": "neoforge:item_exists",
+      "item": "cataclysm:cursium_ingot"
+    },
+    {
+      "type": "neoforge:item_exists",
+      "item": "spartan_compat:cursium_halberd"
+    }
+  ],
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "cataclysm:cursium_upgrade_smithing_template"
+  },
+  "base": {
+    "item": "spartan_weaponry_unofficial:netherite_halberd"
+  },
+  "addition": {
+    "item": "cataclysm:cursium_ingot"
+  },
+  "result": {
+    "count": 1,
+    "id": "spartan_compat:cursium_halberd"
+  }
+}

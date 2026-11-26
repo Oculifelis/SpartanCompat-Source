@@ -1,0 +1,36 @@
+{
+ "title": "Spartan wave 4 art",
+ "project": "Spartan Compat",
+ "owner": "Spartan Compat",
+ "whats_new": "Weapon art for the four wave 4 metals marked Good: Nexus Accelerite, Embers Dawnstone, Create Deep Dark Echo and Legendary Monsters Enderitium. Traits follow the wave 4 picks and are already coded. Thavma, Orevolution and IFMUP were dropped as marked. Enderitium is green because the mod's own ingot is green.",
+ "items": [
+  {
+   "id": "w4art-accelerite",
+   "title": "Nexus: Accelerite weapons",
+   "detail": "Accelerite is the Nexus metal marked Good in round spartan-wave4-r1. Spartan's iron sprites recoloured to the mod's own charged accelerite ingot, same style as the approved wave 3 sets: all 24 kinds plus bow and crossbow states. Top row: vanilla iron sword, Spartan iron longsword, source ingot; then every kind at 1x and 4x. Trait coded: Overclock, each hit within 3 seconds raises attack speed 6%, up to 5 stacks, and hits at full stacks knock back (pick B). The module stays off by default until this art is Good.",
+   "ask": "Good = ship these colours, Needs changes = say what to shift, Bad = drop the material.",
+   "images": [{"src": "sheets/accelerite.png", "caption": "Accelerite"}]
+  },
+  {
+   "id": "w4art-dawnstone",
+   "title": "Embers: Dawnstone weapons",
+   "detail": "Dawnstone is the Embers Re-Ignited metal marked Good in round spartan-wave4-r1. Spartan's iron sprites recoloured to the mod's own dawnstone ingot, same style as the approved wave 3 sets: all 24 kinds plus bow and crossbow states. Top row: vanilla iron sword, Spartan iron longsword, source ingot; then every kind at 1x and 4x. Trait coded: Heat Sink, every fifth hit deals 4 bonus fire damage and sets the target alight (pick B). The module stays off by default until this art is Good.",
+   "ask": "Good = ship these colours, Needs changes = say what to shift, Bad = drop the material.",
+   "images": [{"src": "sheets/dawnstone.png", "caption": "Dawnstone"}]
+  },
+  {
+   "id": "w4art-echo",
+   "title": "Create Deep Dark: Echo weapons",
+   "detail": "Echo is the Create Deep Dark metal marked Good in round spartan-wave4-r1. Spartan's iron sprites recoloured to the mod's own echo ingot, same style as the approved wave 3 sets: all 24 kinds plus bow and crossbow states. Top row: vanilla iron sword, Spartan iron longsword, source ingot; then every kind at 1x and 4x. Trait coded: Echo Strike, hits from behind add an armour-piercing echo hit for 40% of the damage (pick A). The module stays off by default until this art is Good.",
+   "ask": "Good = ship these colours, Needs changes = say what to shift, Bad = drop the material.",
+   "images": [{"src": "sheets/echo.png", "caption": "Echo"}]
+  },
+  {
+   "id": "w4art-enderitium",
+   "title": "Legendary Monsters: Enderitium weapons",
+   "detail": "Enderitium is the Legendary Monsters metal marked Good in round spartan-wave4-r1. Spartan's iron sprites recoloured to the mod's own enderitium ingot (green in that mod), same style as the approved wave 3 sets: all 24 kinds plus bow and crossbow states. Top row: vanilla iron sword, Spartan iron longsword, source ingot; then every kind at 1x and 4x. Trait coded: Void Edge, 50% more damage against End mobs, an entity tag packs can extend (pick B). The module stays off by default until this art is Good.",
+   "ask": "Good = ship these colours, Needs changes = say what to shift, Bad = drop the material.",
+   "images": [{"src": "sheets/enderitium.png", "caption": "Enderitium"}]
+  }
+ ]
+}

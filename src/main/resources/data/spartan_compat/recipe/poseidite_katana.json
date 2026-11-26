@@ -1,0 +1,42 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "spartan_weaponry_unofficial:type_disabled",
+      "disabled": [
+        "katana"
+      ]
+    },
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "l2complements"
+    },
+    {
+      "type": "neoforge:item_exists",
+      "item": "l2complements:poseidite_ingot"
+    },
+    {
+      "type": "neoforge:item_exists",
+      "item": "spartan_compat:poseidite_katana"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "group": "spartan_weaponry_unofficial:katana",
+  "key": {
+    "#": {
+      "item": "l2complements:poseidite_ingot"
+    },
+    "|": {
+      "item": "spartan_weaponry_unofficial:handle"
+    }
+  },
+  "pattern": [
+    "  #",
+    " # ",
+    "|  "
+  ],
+  "result": {
+    "count": 1,
+    "id": "spartan_compat:poseidite_katana"
+  }
+}

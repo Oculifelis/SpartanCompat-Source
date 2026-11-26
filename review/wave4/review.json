@@ -1,0 +1,56 @@
+{
+  "title": "Spartan Compat materials",
+  "project": "Spartan Compat",
+  "owner": "Main Coordinator",
+  "whats_new": "Six material recolors for four new 1.21.1 modules: Create, Ars Nouveau, Occultism and AE2. Staged only; modules default to disabled and opt-in uses existing Spartan iron artwork until review.",
+  "items": [
+    {
+      "id": "accelerite",
+      "title": "Accelerite",
+      "detail": "All weapon sprites, including bow states. Original Spartan shading, outlines, grip and binding remain. Left: Spartan iron at 1x. Middle: recolor at 1x. Right: recolor at 4x. Pending art stays outside the jar.",
+      "ask": "Is this material's recolor ready?",
+      "images": [
+        {
+          "src": "sheets/accelerite.png",
+          "caption": "Accelerite beside vanilla and Spartan iron"
+        }
+      ]
+    },
+    {
+      "id": "dawnstone",
+      "title": "Dawnstone",
+      "detail": "All weapon sprites, including bow states. Original Spartan shading, outlines, grip and binding remain. Left: Spartan iron at 1x. Middle: recolor at 1x. Right: recolor at 4x. Pending art stays outside the jar.",
+      "ask": "Is this material's recolor ready?",
+      "images": [
+        {
+          "src": "sheets/dawnstone.png",
+          "caption": "Dawnstone beside vanilla and Spartan iron"
+        }
+      ]
+    },
+    {
+      "id": "echo",
+      "title": "Echo",
+      "detail": "All weapon sprites, including bow states. Original Spartan shading, outlines, grip and binding remain. Left: Spartan iron at 1x. Middle: recolor at 1x. Right: recolor at 4x. Pending art stays outside the jar.",
+      "ask": "Is this material's recolor ready?",
+      "images": [
+        {
+          "src": "sheets/echo.png",
+          "caption": "Echo beside vanilla and Spartan iron"
+        }
+      ]
+    },
+    {
+      "id": "enderitium",
+      "title": "Enderitium",
+      "detail": "All weapon sprites, including bow states. Original Spartan shading, outlines, grip and binding remain. Left: Spartan iron at 1x. Middle: recolor at 1x. Right: recolor at 4x. Pending art stays outside the jar.",
+      "ask": "Is this material's recolor ready?",
+      "images": [
+        {
+          "src": "sheets/enderitium.png",
+          "caption": "Enderitium beside vanilla and Spartan iron"
+        }
+      ]
+    }
+  ]
+}

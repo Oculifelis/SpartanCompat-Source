@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "eternal_starlight:starlit_diamond",
+      "required": false
+    },
+    {
+      "id": "#c:gems/starlit_diamond",
+      "required": false
+    }
+  ]
+}

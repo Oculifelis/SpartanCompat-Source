@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "create:zinc_ingot",
+      "required": false
+    },
+    {
+      "id": "#c:ingots/zinc",
+      "required": false
+    }
+  ]
+}

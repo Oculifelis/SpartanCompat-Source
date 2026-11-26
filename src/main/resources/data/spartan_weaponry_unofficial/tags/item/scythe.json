@@ -1,0 +1,304 @@
+{
+  "values": [
+    {
+      "id": "spartan_compat:ironwood_scythe",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:steeleaf_scythe",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:knightmetal_scythe",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:fiery_scythe",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:neptunium_scythe",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:ignitium_scythe",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:cursium_scythe",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:witherite_scythe",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:ancient_metal_scythe",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:black_steel_scythe",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:necromium_scythe",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:thaumium_scythe",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:void_metal_scythe",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:starsteel_scythe",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:eclipse_scythe",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:cloggrum_scythe",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:froststeel_scythe",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:utherium_scythe",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:forgotten_scythe",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:resonarium_scythe",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:warden_scythe",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:zanite_scythe",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:gravitite_scythe",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:allthemodium_scythe",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:vibranium_scythe",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:unobtainium_scythe",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:osmium_scythe",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:refined_obsidian_scythe",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:refined_glowstone_scythe",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:lapis_scythe",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:soul_stained_steel_scythe",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:hallowed_gold_scythe",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:deorum_scythe",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:draco_arcanus_scythe",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:source_gem_scythe",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:iesnium_scythe",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:certus_quartz_scythe",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:fluix_scythe",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:brass_scythe",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:zinc_scythe",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:manasteel_scythe",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:elementium_scythe",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:terrasteel_scythe",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:dark_steel_scythe",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:psimetal_scythe",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:amaramber_scythe",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:deepsilver_scythe",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:flowglaze_scythe",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:glacite_scythe",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:malarite_scythe",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:starfire_scythe",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:starlit_diamond_scythe",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:thermal_springstone_scythe",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:unrealium_scythe",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:infused_iron_scythe",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:sky_scythe",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:depth_scythe",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:silver_scythe",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:totemic_gold_scythe",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:poseidite_scythe",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:shulkerate_scythe",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:sculkium_scythe",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:eternium_scythe",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:accelerite_scythe",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:dawnstone_scythe",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:echo_scythe",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:enderitium_scythe",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:arcane_scythe",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:mithril_scythe",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:pyrium_scythe",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:shimmersteel_scythe",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:pyro_spellweave_scythe",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:verdant_spellweave_scythe",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:void_spellweave_scythe",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:abyssal_spellweave_scythe",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+plugins {
+    id 'java-library'
+    id 'net.neoforged.moddev' version '2.0.148'
+    id 'idea'
+}
+
+version = "${mod_version}+${minecraft_version}-neoforge"
+group = mod_group_id
+
+base {
+    archivesName = mod_id
+}
+
+java.toolchain.languageVersion = JavaLanguageVersion.of(21)
+
+repositories {
+    mavenCentral()
+}
+
+// Spartan Weaponry is compiled against its release jar in libs/, which tools/fetch_libs.sh fills.
+// Nothing from it ends up in the built jar. The mods present at runtime come from each run's mods/
+// folder (tools/set_mods.sh).
+def libJar = { String name ->
+    def f = file("libs/${name}")
+    if (!f.exists()) throw new GradleException("libs/${name} is missing: run tools/fetch_libs.sh first")
+    return f
+}
+
+dependencies {
+    compileOnly files(libJar(spartan_jar))
+    // Soft dependencies: only touched when the mod is loaded (ModList guards in SpartanCompat).
+    compileOnly files(libJar('botania-neoforge-1.21.1-457-SNAPSHOT.jar'))
+    compileOnly files(libJar('Psi-neoforge-1.21.1-110.jar'))
+}
+
+// Dev-only GameTests: a second mod, spartan_compat_gametest, loaded only in the gameTestServer run.
+sourceSets {
+    gametest {
+        compileClasspath += sourceSets.main.output
+        runtimeClasspath += sourceSets.main.output
+    }
+}
+dependencies {
+    gametestCompileOnly files(libJar(spartan_jar))
+    gametestCompileOnly files(libJar('botania-neoforge-1.21.1-457-SNAPSHOT.jar'))
+    gametestCompileOnly files(libJar('Psi-neoforge-1.21.1-110.jar'))
+}
+
+neoForge {
+    version = project.neo_version
+    parchment {
+        mappingsVersion = project.parchment_mappings_version
+        minecraftVersion = project.parchment_minecraft_version
+    }
+    runs {
+        client {
+            client()
+            gameDirectory = project.file('run/client')
+            if (project.hasProperty('smoke')) systemProperty 'spartancompat.smoke', 'true'
+        }
+        server {
+            server()
+            gameDirectory = project.file('run-server')
+            programArgument '--nogui'
+        }
+        gameTestServer {
+            type = "gameTestServer"
+            gameDirectory = project.file(project.findProperty('gameTestDir') ?: 'run-gametest')
+            jvmArgument '-XX:ActiveProcessorCount=4'
+            systemProperty 'neoforge.enabledGameTestNamespaces', 'spartan_compat_gametest'
+        }
+        configureEach {
+            logLevel = org.slf4j.event.Level.INFO
+            jvmArgument '-Xmx3G'
+        }
+    }
+    mods {
+        "${mod_id}" {
+            sourceSet(sourceSets.main)
+        }
+        spartan_compat_gametest {
+            sourceSet(sourceSets.gametest)
+        }
+    }
+}
+neoForge.addModdingDependenciesTo(sourceSets.gametest)
+
+neoForge.runs.client.loadedMods = [neoForge.mods.spartan_compat, neoForge.mods.spartan_compat_gametest]
+neoForge.runs.server.loadedMods = [neoForge.mods.spartan_compat]
+neoForge.runs.gameTestServer.loadedMods = [neoForge.mods.spartan_compat, neoForge.mods.spartan_compat_gametest]
+
+var generateModMetadata = tasks.register("generateModMetadata", ProcessResources) {
+    var replaceProperties = [
+            minecraft_version      : minecraft_version,
+            minecraft_version_range: minecraft_version_range,
+            neo_version            : neo_version,
+            neo_version_range      : neo_version_range,
+            loader_version_range   : loader_version_range,
+            mod_id                 : mod_id,
+            mod_name               : mod_name,
+            mod_license            : mod_license,
+            mod_version            : mod_version,
+            mod_authors            : mod_authors,
+            mod_description        : mod_description,
+    ]
+    inputs.properties replaceProperties
+    expand replaceProperties
+    from "src/main/templates"
+    into "build/modMetadata"
+}
+sourceSets.main.resources.srcDir generateModMetadata
+neoForge.ideSyncTask generateModMetadata
+
+tasks.withType(JavaCompile).configureEach {
+    options.encoding = 'UTF-8'
+}
+
+// Licence texts and credits ride inside the jar (Apache-2.0 and MIT both ask for it).
+tasks.named('jar', Jar).configure {
+    from('LICENSE') { into 'META-INF' }
+    from('NOTICE.md') { into 'META-INF' }
+    from('CREDITS.md') { into 'META-INF' }
+    from('licenses') { into 'META-INF/licenses' }
+}

@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "embers:dawnstone_ingot",
+      "required": false
+    },
+    {
+      "id": "#c:ingots/dawnstone",
+      "required": false
+    }
+  ]
+}

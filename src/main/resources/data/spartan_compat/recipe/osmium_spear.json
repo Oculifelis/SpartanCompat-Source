@@ -1,0 +1,41 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "spartan_weaponry_unofficial:type_disabled",
+      "disabled": [
+        "spear"
+      ]
+    },
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "mekanismtools"
+    },
+    {
+      "type": "neoforge:item_exists",
+      "item": "mekanism:ingot_osmium"
+    },
+    {
+      "type": "neoforge:item_exists",
+      "item": "spartan_compat:osmium_spear"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "group": "spartan_weaponry_unofficial:spear",
+  "key": {
+    "#": {
+      "tag": "c:ingots/osmium"
+    },
+    "/": {
+      "tag": "spartan_weaponry_unofficial:poles"
+    }
+  },
+  "pattern": [
+    "#",
+    "/"
+  ],
+  "result": {
+    "count": 1,
+    "id": "spartan_compat:osmium_spear"
+  }
+}

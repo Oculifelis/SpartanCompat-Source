@@ -1,0 +1,284 @@
+{
+  "title": "Spartan Compat materials",
+  "project": "Spartan Compat",
+  "owner": "Main Coordinator",
+  "whats_new": "Six material recolors for four new 1.21.1 modules: Create, Ars Nouveau, Occultism and AE2. Staged only; modules default to disabled and opt-in uses existing Spartan iron artwork until review.",
+  "items": [
+    {
+      "id": "manasteel",
+      "title": "Manasteel",
+      "detail": "All weapon sprites, including bow states. Original Spartan shading, outlines, grip and binding remain. Left: Spartan iron at 1x. Middle: recolor at 1x. Right: recolor at 4x. Pending art stays outside the jar.",
+      "ask": "Is this material's recolor ready?",
+      "images": [
+        {
+          "src": "sheets/manasteel.png",
+          "caption": "Manasteel beside vanilla and Spartan iron"
+        }
+      ]
+    },
+    {
+      "id": "elementium",
+      "title": "Elementium",
+      "detail": "All weapon sprites, including bow states. Original Spartan shading, outlines, grip and binding remain. Left: Spartan iron at 1x. Middle: recolor at 1x. Right: recolor at 4x. Pending art stays outside the jar.",
+      "ask": "Is this material's recolor ready?",
+      "images": [
+        {
+          "src": "sheets/elementium.png",
+          "caption": "Elementium beside vanilla and Spartan iron"
+        }
+      ]
+    },
+    {
+      "id": "terrasteel",
+      "title": "Terrasteel",
+      "detail": "All weapon sprites, including bow states. Original Spartan shading, outlines, grip and binding remain. Left: Spartan iron at 1x. Middle: recolor at 1x. Right: recolor at 4x. Pending art stays outside the jar.",
+      "ask": "Is this material's recolor ready?",
+      "images": [
+        {
+          "src": "sheets/terrasteel.png",
+          "caption": "Terrasteel beside vanilla and Spartan iron"
+        }
+      ]
+    },
+    {
+      "id": "dark_steel",
+      "title": "Dark Steel",
+      "detail": "All weapon sprites, including bow states. Original Spartan shading, outlines, grip and binding remain. Left: Spartan iron at 1x. Middle: recolor at 1x. Right: recolor at 4x. Pending art stays outside the jar.",
+      "ask": "Is this material's recolor ready?",
+      "images": [
+        {
+          "src": "sheets/dark_steel.png",
+          "caption": "Dark Steel beside vanilla and Spartan iron"
+        }
+      ]
+    },
+    {
+      "id": "psimetal",
+      "title": "Psimetal",
+      "detail": "All weapon sprites, including bow states. Original Spartan shading, outlines, grip and binding remain. Left: Spartan iron at 1x. Middle: recolor at 1x. Right: recolor at 4x. Pending art stays outside the jar.",
+      "ask": "Is this material's recolor ready?",
+      "images": [
+        {
+          "src": "sheets/psimetal.png",
+          "caption": "Psimetal beside vanilla and Spartan iron"
+        }
+      ]
+    },
+    {
+      "id": "amaramber",
+      "title": "Amaramber",
+      "detail": "All weapon sprites, including bow states. Original Spartan shading, outlines, grip and binding remain. Left: Spartan iron at 1x. Middle: recolor at 1x. Right: recolor at 4x. Pending art stays outside the jar.",
+      "ask": "Is this material's recolor ready?",
+      "images": [
+        {
+          "src": "sheets/amaramber.png",
+          "caption": "Amaramber beside vanilla and Spartan iron"
+        }
+      ]
+    },
+    {
+      "id": "deepsilver",
+      "title": "Deepsilver",
+      "detail": "All weapon sprites, including bow states. Original Spartan shading, outlines, grip and binding remain. Left: Spartan iron at 1x. Middle: recolor at 1x. Right: recolor at 4x. Pending art stays outside the jar.",
+      "ask": "Is this material's recolor ready?",
+      "images": [
+        {
+          "src": "sheets/deepsilver.png",
+          "caption": "Deepsilver beside vanilla and Spartan iron"
+        }
+      ]
+    },
+    {
+      "id": "flowglaze",
+      "title": "Flowglaze",
+      "detail": "All weapon sprites, including bow states. Original Spartan shading, outlines, grip and binding remain. Left: Spartan iron at 1x. Middle: recolor at 1x. Right: recolor at 4x. Pending art stays outside the jar.",
+      "ask": "Is this material's recolor ready?",
+      "images": [
+        {
+          "src": "sheets/flowglaze.png",
+          "caption": "Flowglaze beside vanilla and Spartan iron"
+        }
+      ]
+    },
+    {
+      "id": "glacite",
+      "title": "Glacite",
+      "detail": "All weapon sprites, including bow states. Original Spartan shading, outlines, grip and binding remain. Left: Spartan iron at 1x. Middle: recolor at 1x. Right: recolor at 4x. Pending art stays outside the jar.",
+      "ask": "Is this material's recolor ready?",
+      "images": [
+        {
+          "src": "sheets/glacite.png",
+          "caption": "Glacite beside vanilla and Spartan iron"
+        }
+      ]
+    },
+    {
+      "id": "malarite",
+      "title": "Malarite",
+      "detail": "All weapon sprites, including bow states. Original Spartan shading, outlines, grip and binding remain. Left: Spartan iron at 1x. Middle: recolor at 1x. Right: recolor at 4x. Pending art stays outside the jar.",
+      "ask": "Is this material's recolor ready?",
+      "images": [
+        {
+          "src": "sheets/malarite.png",
+          "caption": "Malarite beside vanilla and Spartan iron"
+        }
+      ]
+    },
+    {
+      "id": "starfire",
+      "title": "Starfire",
+      "detail": "All weapon sprites, including bow states. Original Spartan shading, outlines, grip and binding remain. Left: Spartan iron at 1x. Middle: recolor at 1x. Right: recolor at 4x. Pending art stays outside the jar.",
+      "ask": "Is this material's recolor ready?",
+      "images": [
+        {
+          "src": "sheets/starfire.png",
+          "caption": "Starfire beside vanilla and Spartan iron"
+        }
+      ]
+    },
+    {
+      "id": "starlit_diamond",
+      "title": "Starlit Diamond",
+      "detail": "All weapon sprites, including bow states. Original Spartan shading, outlines, grip and binding remain. Left: Spartan iron at 1x. Middle: recolor at 1x. Right: recolor at 4x. Pending art stays outside the jar.",
+      "ask": "Is this material's recolor ready?",
+      "images": [
+        {
+          "src": "sheets/starlit_diamond.png",
+          "caption": "Starlit Diamond beside vanilla and Spartan iron"
+        }
+      ]
+    },
+    {
+      "id": "thermal_springstone",
+      "title": "Thermal Springstone",
+      "detail": "All weapon sprites, including bow states. Original Spartan shading, outlines, grip and binding remain. Left: Spartan iron at 1x. Middle: recolor at 1x. Right: recolor at 4x. Pending art stays outside the jar.",
+      "ask": "Is this material's recolor ready?",
+      "images": [
+        {
+          "src": "sheets/thermal_springstone.png",
+          "caption": "Thermal Springstone beside vanilla and Spartan iron"
+        }
+      ]
+    },
+    {
+      "id": "unrealium",
+      "title": "Unrealium",
+      "detail": "All weapon sprites, including bow states. Original Spartan shading, outlines, grip and binding remain. Left: Spartan iron at 1x. Middle: recolor at 1x. Right: recolor at 4x. Pending art stays outside the jar.",
+      "ask": "Is this material's recolor ready?",
+      "images": [
+        {
+          "src": "sheets/unrealium.png",
+          "caption": "Unrealium beside vanilla and Spartan iron"
+        }
+      ]
+    },
+    {
+      "id": "infused_iron",
+      "title": "Infused Iron",
+      "detail": "All weapon sprites, including bow states. Original Spartan shading, outlines, grip and binding remain. Left: Spartan iron at 1x. Middle: recolor at 1x. Right: recolor at 4x. Pending art stays outside the jar.",
+      "ask": "Is this material's recolor ready?",
+      "images": [
+        {
+          "src": "sheets/infused_iron.png",
+          "caption": "Infused Iron beside vanilla and Spartan iron"
+        }
+      ]
+    },
+    {
+      "id": "sky",
+      "title": "Sky",
+      "detail": "All weapon sprites, including bow states. Original Spartan shading, outlines, grip and binding remain. Left: Spartan iron at 1x. Middle: recolor at 1x. Right: recolor at 4x. Pending art stays outside the jar.",
+      "ask": "Is this material's recolor ready?",
+      "images": [
+        {
+          "src": "sheets/sky.png",
+          "caption": "Sky beside vanilla and Spartan iron"
+        }
+      ]
+    },
+    {
+      "id": "depth",
+      "title": "Depth",
+      "detail": "All weapon sprites, including bow states. Original Spartan shading, outlines, grip and binding remain. Left: Spartan iron at 1x. Middle: recolor at 1x. Right: recolor at 4x. Pending art stays outside the jar.",
+      "ask": "Is this material's recolor ready?",
+      "images": [
+        {
+          "src": "sheets/depth.png",
+          "caption": "Depth beside vanilla and Spartan iron"
+        }
+      ]
+    },
+    {
+      "id": "silver",
+      "title": "Silver",
+      "detail": "All weapon sprites, including bow states. Original Spartan shading, outlines, grip and binding remain. Left: Spartan iron at 1x. Middle: recolor at 1x. Right: recolor at 4x. Pending art stays outside the jar.",
+      "ask": "Is this material's recolor ready?",
+      "images": [
+        {
+          "src": "sheets/silver.png",
+          "caption": "Silver beside vanilla and Spartan iron"
+        }
+      ]
+    },
+    {
+      "id": "eternium",
+      "title": "Eternium",
+      "detail": "All weapon sprites, including bow states. Original Spartan shading, outlines, grip and binding remain. Left: Spartan iron at 1x. Middle: recolor at 1x. Right: recolor at 4x. Pending art stays outside the jar.",
+      "ask": "Is this material's recolor ready?",
+      "images": [
+        {
+          "src": "sheets/eternium.png",
+          "caption": "Eternium beside vanilla and Spartan iron"
+        }
+      ]
+    },
+    {
+      "id": "poseidite",
+      "title": "Poseidite",
+      "detail": "All weapon sprites, including bow states. Original Spartan shading, outlines, grip and binding remain. Left: Spartan iron at 1x. Middle: recolor at 1x. Right: recolor at 4x. Pending art stays outside the jar.",
+      "ask": "Is this material's recolor ready?",
+      "images": [
+        {
+          "src": "sheets/poseidite.png",
+          "caption": "Poseidite beside vanilla and Spartan iron"
+        }
+      ]
+    },
+    {
+      "id": "sculkium",
+      "title": "Sculkium",
+      "detail": "All weapon sprites, including bow states. Original Spartan shading, outlines, grip and binding remain. Left: Spartan iron at 1x. Middle: recolor at 1x. Right: recolor at 4x. Pending art stays outside the jar.",
+      "ask": "Is this material's recolor ready?",
+      "images": [
+        {
+          "src": "sheets/sculkium.png",
+          "caption": "Sculkium beside vanilla and Spartan iron"
+        }
+      ]
+    },
+    {
+      "id": "shulkerate",
+      "title": "Shulkerate",
+      "detail": "All weapon sprites, including bow states. Original Spartan shading, outlines, grip and binding remain. Left: Spartan iron at 1x. Middle: recolor at 1x. Right: recolor at 4x. Pending art stays outside the jar.",
+      "ask": "Is this material's recolor ready?",
+      "images": [
+        {
+          "src": "sheets/shulkerate.png",
+          "caption": "Shulkerate beside vanilla and Spartan iron"
+        }
+      ]
+    },
+    {
+      "id": "totemic_gold",
+      "title": "Totemic Gold",
+      "detail": "All weapon sprites, including bow states. Original Spartan shading, outlines, grip and binding remain. Left: Spartan iron at 1x. Middle: recolor at 1x. Right: recolor at 4x. Pending art stays outside the jar.",
+      "ask": "Is this material's recolor ready?",
+      "images": [
+        {
+          "src": "sheets/totemic_gold.png",
+          "caption": "Totemic Gold beside vanilla and Spartan iron"
+        }
+      ]
+    }
+  ]
+}

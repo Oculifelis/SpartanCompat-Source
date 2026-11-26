@@ -1,0 +1,56 @@
+{
+  "title": "Spartan Compat materials",
+  "project": "Spartan Compat",
+  "owner": "Main Coordinator",
+  "whats_new": "Six material recolors for four new 1.21.1 modules: Create, Ars Nouveau, Occultism and AE2. Staged only; modules default to disabled and opt-in uses existing Spartan iron artwork until review.",
+  "items": [
+    {
+      "id": "arcane",
+      "title": "Arcane",
+      "detail": "All weapon sprites, including bow states. Original Spartan shading, outlines, grip and binding remain. Left: Spartan iron at 1x. Middle: recolor at 1x. Right: recolor at 4x. Pending art stays outside the jar.",
+      "ask": "Is this material's recolor ready?",
+      "images": [
+        {
+          "src": "sheets/arcane.png",
+          "caption": "Arcane beside vanilla and Spartan iron"
+        }
+      ]
+    },
+    {
+      "id": "mithril",
+      "title": "Mithril",
+      "detail": "All weapon sprites, including bow states. Original Spartan shading, outlines, grip and binding remain. Left: Spartan iron at 1x. Middle: recolor at 1x. Right: recolor at 4x. Pending art stays outside the jar.",
+      "ask": "Is this material's recolor ready?",
+      "images": [
+        {
+          "src": "sheets/mithril.png",
+          "caption": "Mithril beside vanilla and Spartan iron"
+        }
+      ]
+    },
+    {
+      "id": "pyrium",
+      "title": "Pyrium",
+      "detail": "All weapon sprites, including bow states. Original Spartan shading, outlines, grip and binding remain. Left: Spartan iron at 1x. Middle: recolor at 1x. Right: recolor at 4x. Pending art stays outside the jar.",
+      "ask": "Is this material's recolor ready?",
+      "images": [
+        {
+          "src": "sheets/pyrium.png",
+          "caption": "Pyrium beside vanilla and Spartan iron"
+        }
+      ]
+    },
+    {
+      "id": "shimmersteel",
+      "title": "Shimmersteel",
+      "detail": "All weapon sprites, including bow states. Original Spartan shading, outlines, grip and binding remain. Left: Spartan iron at 1x. Middle: recolor at 1x. Right: recolor at 4x. Pending art stays outside the jar.",
+      "ask": "Is this material's recolor ready?",
+      "images": [
+        {
+          "src": "sheets/shimmersteel.png",
+          "caption": "Shimmersteel beside vanilla and Spartan iron"
+        }
+      ]
+    }
+  ]
+}

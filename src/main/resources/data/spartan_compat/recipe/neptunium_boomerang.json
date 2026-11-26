@@ -1,0 +1,42 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "spartan_weaponry_unofficial:type_disabled",
+      "disabled": [
+        "boomerang"
+      ]
+    },
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "aquaculture"
+    },
+    {
+      "type": "neoforge:item_exists",
+      "item": "aquaculture:neptunium_ingot"
+    },
+    {
+      "type": "neoforge:item_exists",
+      "item": "spartan_compat:neptunium_boomerang"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "group": "spartan_weaponry_unofficial:boomerang",
+  "key": {
+    "#": {
+      "item": "aquaculture:neptunium_ingot"
+    },
+    "P": {
+      "tag": "minecraft:planks"
+    }
+  },
+  "pattern": [
+    "#PP",
+    "P  ",
+    "P  "
+  ],
+  "result": {
+    "count": 1,
+    "id": "spartan_compat:neptunium_boomerang"
+  }
+}

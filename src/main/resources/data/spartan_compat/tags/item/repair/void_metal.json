@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "thaumaturge:ingot_void",
+      "required": false
+    },
+    {
+      "id": "#c:ingots/void_metal",
+      "required": false
+    }
+  ]
+}

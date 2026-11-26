@@ -1,0 +1,304 @@
+{
+  "values": [
+    {
+      "id": "spartan_compat:ironwood_flanged_mace",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:steeleaf_flanged_mace",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:knightmetal_flanged_mace",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:fiery_flanged_mace",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:neptunium_flanged_mace",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:ignitium_flanged_mace",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:cursium_flanged_mace",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:witherite_flanged_mace",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:ancient_metal_flanged_mace",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:black_steel_flanged_mace",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:necromium_flanged_mace",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:thaumium_flanged_mace",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:void_metal_flanged_mace",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:starsteel_flanged_mace",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:eclipse_flanged_mace",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:cloggrum_flanged_mace",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:froststeel_flanged_mace",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:utherium_flanged_mace",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:forgotten_flanged_mace",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:resonarium_flanged_mace",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:warden_flanged_mace",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:zanite_flanged_mace",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:gravitite_flanged_mace",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:allthemodium_flanged_mace",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:vibranium_flanged_mace",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:unobtainium_flanged_mace",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:osmium_flanged_mace",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:refined_obsidian_flanged_mace",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:refined_glowstone_flanged_mace",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:lapis_flanged_mace",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:soul_stained_steel_flanged_mace",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:hallowed_gold_flanged_mace",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:deorum_flanged_mace",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:draco_arcanus_flanged_mace",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:source_gem_flanged_mace",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:iesnium_flanged_mace",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:certus_quartz_flanged_mace",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:fluix_flanged_mace",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:brass_flanged_mace",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:zinc_flanged_mace",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:manasteel_flanged_mace",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:elementium_flanged_mace",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:terrasteel_flanged_mace",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:dark_steel_flanged_mace",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:psimetal_flanged_mace",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:amaramber_flanged_mace",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:deepsilver_flanged_mace",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:flowglaze_flanged_mace",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:glacite_flanged_mace",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:malarite_flanged_mace",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:starfire_flanged_mace",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:starlit_diamond_flanged_mace",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:thermal_springstone_flanged_mace",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:unrealium_flanged_mace",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:infused_iron_flanged_mace",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:sky_flanged_mace",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:depth_flanged_mace",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:silver_flanged_mace",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:totemic_gold_flanged_mace",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:poseidite_flanged_mace",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:shulkerate_flanged_mace",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:sculkium_flanged_mace",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:eternium_flanged_mace",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:accelerite_flanged_mace",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:dawnstone_flanged_mace",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:echo_flanged_mace",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:enderitium_flanged_mace",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:arcane_flanged_mace",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:mithril_flanged_mace",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:pyrium_flanged_mace",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:shimmersteel_flanged_mace",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:pyro_spellweave_flanged_mace",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:verdant_spellweave_flanged_mace",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:void_spellweave_flanged_mace",
+      "required": false
+    },
+    {
+      "id": "spartan_compat:abyssal_spellweave_flanged_mace",
+      "required": false
+    }
+  ]
+}

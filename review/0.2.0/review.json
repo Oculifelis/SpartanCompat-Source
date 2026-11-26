@@ -1,0 +1,80 @@
+{
+  "title": "Spartan Compat materials",
+  "project": "Spartan Compat",
+  "owner": "Main Coordinator",
+  "whats_new": "Six material recolors for four new 1.21.1 modules: Create, Ars Nouveau, Occultism and AE2. Staged only; modules default to disabled and opt-in uses existing Spartan iron artwork until review.",
+  "items": [
+    {
+      "id": "brass",
+      "title": "Brass",
+      "detail": "All weapon sprites, including bow states. Original Spartan shading, outlines, grip and binding remain. Left: Spartan iron at 1x. Middle: recolor at 1x. Right: recolor at 4x. Pending art stays outside the jar.",
+      "ask": "Is this material's recolor ready?",
+      "images": [
+        {
+          "src": "sheets/brass.png",
+          "caption": "Brass beside vanilla and Spartan iron"
+        }
+      ]
+    },
+    {
+      "id": "zinc",
+      "title": "Zinc",
+      "detail": "All weapon sprites, including bow states. Original Spartan shading, outlines, grip and binding remain. Left: Spartan iron at 1x. Middle: recolor at 1x. Right: recolor at 4x. Pending art stays outside the jar.",
+      "ask": "Is this material's recolor ready?",
+      "images": [
+        {
+          "src": "sheets/zinc.png",
+          "caption": "Zinc beside vanilla and Spartan iron"
+        }
+      ]
+    },
+    {
+      "id": "source_gem",
+      "title": "Source Gem",
+      "detail": "All weapon sprites, including bow states. Original Spartan shading, outlines, grip and binding remain. Left: Spartan iron at 1x. Middle: recolor at 1x. Right: recolor at 4x. Pending art stays outside the jar.",
+      "ask": "Is this material's recolor ready?",
+      "images": [
+        {
+          "src": "sheets/source_gem.png",
+          "caption": "Source Gem beside vanilla and Spartan iron"
+        }
+      ]
+    },
+    {
+      "id": "iesnium",
+      "title": "Iesnium",
+      "detail": "All weapon sprites, including bow states. Original Spartan shading, outlines, grip and binding remain. Left: Spartan iron at 1x. Middle: recolor at 1x. Right: recolor at 4x. Pending art stays outside the jar.",
+      "ask": "Is this material's recolor ready?",
+      "images": [
+        {
+          "src": "sheets/iesnium.png",
+          "caption": "Iesnium beside vanilla and Spartan iron"
+        }
+      ]
+    },
+    {
+      "id": "certus_quartz",
+      "title": "Certus Quartz",
+      "detail": "All weapon sprites, including bow states. Original Spartan shading, outlines, grip and binding remain. Left: Spartan iron at 1x. Middle: recolor at 1x. Right: recolor at 4x. Pending art stays outside the jar.",
+      "ask": "Is this material's recolor ready?",
+      "images": [
+        {
+          "src": "sheets/certus_quartz.png",
+          "caption": "Certus Quartz beside vanilla and Spartan iron"
+        }
+      ]
+    },
+    {
+      "id": "fluix",
+      "title": "Fluix",
+      "detail": "All weapon sprites, including bow states. Original Spartan shading, outlines, grip and binding remain. Left: Spartan iron at 1x. Middle: recolor at 1x. Right: recolor at 4x. Pending art stays outside the jar.",
+      "ask": "Is this material's recolor ready?",
+      "images": [
+        {
+          "src": "sheets/fluix.png",
+          "caption": "Fluix beside vanilla and Spartan iron"
+        }
+      ]
+    }
+  ]
+}
